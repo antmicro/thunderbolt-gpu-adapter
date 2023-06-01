@@ -2460,14 +2460,23 @@
     (path "/865882db-2ff4-4d36-b8dd-f025af470fd9"
       (reference "FID8") (unit 1) (value "antmicro_Fiducial_1mm_Mask3mm") (footprint "antmicro-footprints:Fiducial_1mm_Mask3mm")
     )
-    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/d50d55ea-6d33-4102-97a5-10d47f4af385"
-      (reference "J1") (unit 1) (value "USB-C_DX07S024JJ2") (footprint "antmicro-footprints:USB-3.1-Gen2_Type-C_JAE_DX07S024JJ2_Horizontal")
-    )
-    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/aa5ae993-93e2-450e-8712-289662f0b6a1"
-      (reference "J2") (unit 1) (value "PCIe_x4_Conn_EdgeMount_Open") (footprint "antmicro-footprints:PCIE_TE_2-2387405-2")
-    )
     (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/54c8681b-30e9-47a7-a47c-86962f777c12"
       (reference "J3") (unit 1) (value "Conn_Molex_NanoFit_1053131202") (footprint "antmicro-footprints:Conn_Molex_NanoFit_1053131202")
+    )
+    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/cbf9e87b-2430-44d6-98a5-cb840d2424f4"
+      (reference "J4") (unit 1) (value "E8124-015-01") (footprint "antmicro-footprints:USB-C_Female_E8124-015-01")
+    )
+    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/10bc4cad-b852-4fe2-a97e-002566db4908"
+      (reference "J5") (unit 1) (value "PCIe_x16_10146070-113Y0LF-vertical") (footprint "antmicro-footprints:AMPHENOL_10146070-113Y0LF")
+    )
+    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/ea79c383-16d8-4c67-bc62-394bf83879df"
+      (reference "J5") (unit 2) (value "PCIe_x16_10146070-113Y0LF-vertical") (footprint "antmicro-footprints:AMPHENOL_10146070-113Y0LF")
+    )
+    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/32177506-97ad-407e-8891-28ec3f718a73"
+      (reference "J6") (unit 1) (value "Molex_1724480008-horizontal") (footprint "antmicro-footprints:MOLEX_1724480008")
+    )
+    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/093bdf58-5994-4369-9be5-4885879f4270"
+      (reference "J7") (unit 1) (value "BarrelJack_3167288") (footprint "antmicro-footprints:BarrelJack_3167288_Horizontal")
     )
     (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/2b5f65d4-3efa-44da-a9a6-418d3f9c8a52"
       (reference "L1") (unit 1) (value "L_6u8_12.8A_XAL7070") (footprint "antmicro-footprints:L_Coilcraft_XAL7070")
