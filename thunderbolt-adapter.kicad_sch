@@ -2055,6 +2055,27 @@
     (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/57364b62-71d8-45d6-a35d-d1750a250a0f"
       (reference "#PWR0165") (unit 1) (value "GND") (footprint "")
     )
+    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/11b4b6b1-8c71-4abf-981f-3ee7d09428ed"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/44ea19c9-8123-4e44-b6f8-337b7f83634c"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/509a3852-f768-4aec-aff9-fa58ddaa6def"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/6cbcea24-f764-4124-962d-1a1e928113e8"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/98edcd92-ed0e-4dca-9667-c1203e3e5726"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/ac5b85a7-bec1-4122-ba8b-311b0ddc34a7"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/e61db3b5-4c37-40e1-8200-7ad44613526f"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/ee93009a-ac01-4467-98b4-1c4e226d60d4"
       (reference "C1") (unit 1) (value "C_10u_0805_35V") (footprint "antmicro-footprints:C_0805_2012Metric")
     )
@@ -2460,6 +2481,12 @@
     (path "/865882db-2ff4-4d36-b8dd-f025af470fd9"
       (reference "FID8") (unit 1) (value "antmicro_Fiducial_1mm_Mask3mm") (footprint "antmicro-footprints:Fiducial_1mm_Mask3mm")
     )
+    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/2117610d-e0c9-4b3c-81a5-d8fd95e1a45a"
+      (reference "J1") (unit 1) (value "455860005") (footprint "antmicro-footprints:MOLEX_455860005")
+    )
+    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/5cc21113-06aa-46e6-aab2-b2270692ab88"
+      (reference "J2") (unit 1) (value "455860005") (footprint "antmicro-footprints:MOLEX_455860005")
+    )
     (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/cbf9e87b-2430-44d6-98a5-cb840d2424f4"
       (reference "J4") (unit 1) (value "E8124-015-01") (footprint "antmicro-footprints:USB-C_Female_E8124-015-01")
     )
@@ -2474,12 +2501,6 @@
     )
     (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/093bdf58-5994-4369-9be5-4885879f4270"
       (reference "J7") (unit 1) (value "BarrelJack_3167288") (footprint "antmicro-footprints:BarrelJack_3167288_Horizontal")
-    )
-    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/2117610d-e0c9-4b3c-81a5-d8fd95e1a45a"
-      (reference "J?") (unit 1) (value "455860005") (footprint "antmicro-footprints:MOLEX_455860005")
-    )
-    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/5cc21113-06aa-46e6-aab2-b2270692ab88"
-      (reference "J?") (unit 1) (value "455860005") (footprint "antmicro-footprints:MOLEX_455860005")
     )
     (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/2b5f65d4-3efa-44da-a9a6-418d3f9c8a52"
       (reference "L1") (unit 1) (value "L_6u8_12.8A_XAL7070") (footprint "antmicro-footprints:L_Coilcraft_XAL7070")
