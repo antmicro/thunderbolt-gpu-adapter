@@ -2055,6 +2055,12 @@
     (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/57364b62-71d8-45d6-a35d-d1750a250a0f"
       (reference "#PWR0165") (unit 1) (value "GND") (footprint "")
     )
+    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/077fbd22-044e-4ba7-a384-94c2173931fe"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/0adcbfd2-0234-4ef3-9b2a-fa30dae4ca60"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/11b4b6b1-8c71-4abf-981f-3ee7d09428ed"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
@@ -2507,6 +2513,12 @@
     )
     (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/093bdf58-5994-4369-9be5-4885879f4270"
       (reference "J7") (unit 1) (value "BarrelJack_3167288") (footprint "antmicro-footprints:BarrelJack_3167288_Horizontal")
+    )
+    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/8eeb3310-b65e-4c89-9704-0b90bc9e39eb"
+      (reference "J?") (unit 1) (value "4PIN-22-27-2041") (footprint "antmicro-footprints:4PIN-22-27-2041")
+    )
+    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/99eb5f0a-0a60-4acf-9183-44fa51991d4e"
+      (reference "J?") (unit 1) (value "533980271") (footprint "MOLEX_533980271")
     )
     (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/2b5f65d4-3efa-44da-a9a6-418d3f9c8a52"
       (reference "L1") (unit 1) (value "L_6u8_12.8A_XAL7070") (footprint "antmicro-footprints:L_Coilcraft_XAL7070")
