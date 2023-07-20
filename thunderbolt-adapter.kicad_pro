@@ -45,7 +45,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.09999999999999999
+          "min_clearance": 0.19999999999999998
         }
       },
       "diff_pair_dimensions": [
@@ -93,6 +93,15 @@
         "courtyards_overlap|143311571|91217871|bbc152f6-fa16-4df0-a295-8bc1fe86b5a8|055ba4b2-e42d-4305-a497-3b90efacc766",
         "courtyards_overlap|145807970|90526001|5741b908-2ebd-4f7c-8051-8bf2925f9221|bbc152f6-fa16-4df0-a295-8bc1fe86b5a8",
         "courtyards_overlap|145807970|90526001|bbc152f6-fa16-4df0-a295-8bc1fe86b5a8|5741b908-2ebd-4f7c-8051-8bf2925f9221",
+        "courtyards_overlap|80607287|139469999|0e27db27-7b98-43bb-8c84-dd97265a8321|47a8c6b8-1eb0-4085-9019-c5d0e2924000",
+        "courtyards_overlap|83209999|128000001|3cd62994-9b4f-4b54-b350-7c701ea6a6b8|47a8c6b8-1eb0-4085-9019-c5d0e2924000",
+        "courtyards_overlap|84680001|129560001|47a8c6b8-1eb0-4085-9019-c5d0e2924000|a1cbeecc-ab0c-4285-8521-500b926c2ba5",
+        "courtyards_overlap|84680001|136410001|47a8c6b8-1eb0-4085-9019-c5d0e2924000|80ba2b27-e1e2-401b-84db-d454d8ec22ab",
+        "courtyards_overlap|85179999|128000001|5b3afb7d-1037-4a60-b0b1-5e69b8d12495|47a8c6b8-1eb0-4085-9019-c5d0e2924000",
+        "courtyards_overlap|85963525|116426584|3e429607-f88d-4d56-9d33-24a34f70f76d|f55b3520-6aab-458b-9e47-8c39561c8842",
+        "courtyards_overlap|86780001|129544001|47a8c6b8-1eb0-4085-9019-c5d0e2924000|8dc3c7db-bde0-4e65-b696-416dc62cfc94",
+        "courtyards_overlap|86780001|136410001|47a8c6b8-1eb0-4085-9019-c5d0e2924000|75fae45c-415b-4336-96fa-005f5a94784c",
+        "courtyards_overlap|89841999|118150001|3e429607-f88d-4d56-9d33-24a34f70f76d|a9eb4efa-43d9-463c-8a10-8bbb62f0c99b",
         "courtyards_overlap|97677146|110650001|2927ffb3-a316-402e-aac9-893102c0b43d|6fc7b6cb-a27d-44ce-9776-0bb14d27b506",
         "silk_over_copper|170000000|86720000|c800ef19-4d3d-4715-b365-0c3dc7c2f26b|a142db13-cafb-4bae-94a0-da4c25990cf3",
         "silk_over_copper|170000000|86850000|c800ef19-4d3d-4715-b365-0c3dc7c2f26b|89dd1181-5124-4d3b-a357-1c852a18f057",
