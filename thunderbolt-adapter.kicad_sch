@@ -2514,8 +2514,8 @@
     (path "/865882db-2ff4-4d36-b8dd-f025af470fd9"
       (reference "FID8") (unit 1) (value "antmicro_Fiducial_1mm_Mask3mm") (footprint "antmicro-footprints:Fiducial_1mm_Mask3mm")
     )
-    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/f8c8b6f1-386c-4b11-a2f8-e036d37d11fc"
-      (reference "J1") (unit 1) (value "45911-0001") (footprint "antmicro-footprints:45911-0001")
+    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/c94e1b5a-3f23-452f-85db-051739efaca2"
+      (reference "J1") (unit 1) (value "45911-0001-male") (footprint "antmicro-footprints:45911-0001-male")
     )
     (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/5dbfd470-ba61-43dc-af84-40569d1607e6"
       (reference "J2") (unit 1) (value "S2B-XH-A-1(LF)(SN)") (footprint "JST_S2B-XH-A-1(LF)(SN)")
