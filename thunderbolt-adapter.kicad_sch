@@ -2058,9 +2058,6 @@
     (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/87d99776-0931-402f-a25f-ec37bf6b566b"
       (reference "#PWR0172") (unit 1) (value "GND") (footprint "")
     )
-    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/11b4b6b1-8c71-4abf-981f-3ee7d09428ed"
-      (reference "#PWR0175") (unit 1) (value "GND") (footprint "")
-    )
     (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/fead20bd-78bb-4d47-9dff-04b484a94bba"
       (reference "#PWR0176") (unit 1) (value "GND") (footprint "")
     )
@@ -2540,9 +2537,6 @@
     )
     (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/ea79c383-16d8-4c67-bc62-394bf83879df"
       (reference "J5") (unit 2) (value "PCIe_x16_10146070-113Y0LF-vertical") (footprint "antmicro-footprints:AMPHENOL_10146070-113Y0LF")
-    )
-    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/093bdf58-5994-4369-9be5-4885879f4270"
-      (reference "J7") (unit 1) (value "BarrelJack_3167288") (footprint "antmicro-footprints:BarrelJack_3167288_Horizontal")
     )
     (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/f074719f-da18-400a-afe2-ad9fe421fbb5"
       (reference "J9") (unit 1) (value "KUSBX-SL2-CS1N24-B-TR") (footprint "antmicro-footprints:KUSBXSL2CS1N24BTR")
