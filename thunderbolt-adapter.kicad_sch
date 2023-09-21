@@ -2085,19 +2085,19 @@
     (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/98a85819-2a7f-46a0-a481-1ca0fcad4448"
       (reference "#PWR0184") (unit 1) (value "GND") (footprint "")
     )
-    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/433e8360-8bed-484c-b74a-0ff12496d82d"
-      (reference "#PWR0185") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/31b78a79-794e-4298-b465-aa97e6ecafe3"
-      (reference "#PWR0186") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/a60302c1-17b9-4d4c-8bf5-361ee1e3a487"
-      (reference "#PWR0187") (unit 1) (value "GND") (footprint "")
-    )
     (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/3c47c271-507d-4ebf-89ec-367da0b4195b"
       (reference "#PWR0188") (unit 1) (value "GND") (footprint "")
     )
+    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/3c6fea18-c3d3-4812-ba36-f70c710933b8"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/5572ae83-57a6-4689-9b5a-d1272006d7b2"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/bc8502cc-d244-429e-8d41-3a446c31725b"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/f8e435d9-7840-407b-b394-43f52c1ed3e3"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/ee93009a-ac01-4467-98b4-1c4e226d60d4"
@@ -2538,8 +2538,8 @@
     (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/ea79c383-16d8-4c67-bc62-394bf83879df"
       (reference "J5") (unit 2) (value "PCIe_x16_10146070-113Y0LF-vertical") (footprint "antmicro-footprints:AMPHENOL_10146070-113Y0LF")
     )
-    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/f074719f-da18-400a-afe2-ad9fe421fbb5"
-      (reference "J9") (unit 1) (value "KUSBX-SL2-CS1N24-B-TR") (footprint "antmicro-footprints:KUSBXSL2CS1N24BTR")
+    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/8aa7c3c3-05a5-46a8-bb34-4eb8637903c1"
+      (reference "J9") (unit 1) (value "USB-C_DX07S024JJ2") (footprint "antmicro-footprints:USB-3.1-Gen2_Type-C_JAE_DX07S024JJ2_Horizontal")
     )
     (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/2b5f65d4-3efa-44da-a9a6-418d3f9c8a52"
       (reference "L1") (unit 1) (value "L_6u8_12.8A_XAL7070") (footprint "antmicro-footprints:L_Coilcraft_XAL7070")
