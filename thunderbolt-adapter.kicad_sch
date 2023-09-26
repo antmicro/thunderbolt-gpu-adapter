@@ -1272,9 +1272,6 @@
     (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/7ce40f3a-65ba-4a41-9cf3-2273300457ff"
       (reference "#PWR0145") (unit 1) (value "GND") (footprint "")
     )
-    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/61da1fee-39a2-4c9c-bdbe-68313f783f29"
-      (reference "#PWR0146") (unit 1) (value "GND") (footprint "")
-    )
     (path "/42f40c2a-7d08-4162-a1a3-933510b09406/56d1af57-fa33-4fd0-a5ca-768cd6ee4432"
       (reference "#PWR0147") (unit 1) (value "GND") (footprint "")
     )
@@ -1343,6 +1340,9 @@
     )
     (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/c087eb53-b4b7-43ef-8f1e-5a96c6e3bc7c"
       (reference "#PWR0169") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/30e2548c-ad17-4bc2-9331-6db8a9942347"
+      (reference "#PWR0170") (unit 1) (value "GND") (footprint "")
     )
     (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/fe9b46d8-82a9-4986-b9d2-521c1a3e0d1d"
       (reference "#PWR0171") (unit 1) (value "GND") (footprint "")
@@ -1812,9 +1812,6 @@
     (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/a823b2b8-f02d-481f-8155-7f6f51c0572b"
       (reference "H3") (unit 1) (value "Mech_Lightpipe_Mentor_1271_1001") (footprint "antmicro-footprints:Mech_Lightpipe_Mentor_1271_1001")
     )
-    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/c94e1b5a-3f23-452f-85db-051739efaca2"
-      (reference "J1") (unit 1) (value "45911-0001-male") (footprint "antmicro-footprints:45911-0001-male")
-    )
     (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/5ad9ea7b-3e5f-40a8-84e9-abba5434efa4"
       (reference "J2") (unit 1) (value "S2B-XH-A-1_LF_SN") (footprint "antmicro-footprints:JST_S2B-XH-A-1_LF_SN")
     )
@@ -1830,8 +1827,8 @@
     (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/ea79c383-16d8-4c67-bc62-394bf83879df"
       (reference "J5") (unit 2) (value "PCIe_x16_10146070-113Y0LF-vertical") (footprint "antmicro-footprints:AMPHENOL_10146070-113Y0LF")
     )
-    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/eee387ef-c7e1-43f6-9284-1368b14561ba"
-      (reference "J6") (unit 1) (value "1-2212115-4-male") (footprint "antmicro-footprints:1-2212115-4-male")
+    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/8b285552-e6d0-4658-a041-169d1edcaf25"
+      (reference "J6") (unit 1) (value "Edge_Conn_1-2212115-4") (footprint "antmicro-footprints:Edge_Conn_1-2212115-4")
     )
     (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/8aa7c3c3-05a5-46a8-bb34-4eb8637903c1"
       (reference "J9") (unit 1) (value "USB-C_DX07S024JJ2") (footprint "antmicro-footprints:USB-3.1-Gen2_Type-C_JAE_DX07S024JJ2_Horizontal")
