@@ -1839,14 +1839,14 @@
     (path "/865882db-2ff4-4d36-b8dd-f025af470fd9"
       (reference "FID8") (unit 1) (value "antmicro_Fiducial_1mm_Mask3mm") (footprint "antmicro-footprints:Fiducial_1mm_Mask3mm")
     )
-    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/a021c822-9d1f-478d-bb2f-c8dec2fa9d53"
-      (reference "H1") (unit 1) (value "Mech_Lightpipe_Mentor_1271_1001") (footprint "antmicro-footprints:Mech_Lightpipe_Mentor_1271_1001")
+    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/351e5a92-b803-49dc-9276-4ce9a22461c0"
+      (reference "H1") (unit 1) (value "Mech_Lightpipe_Mentor_1271.1001") (footprint "antmicro-footprints:Mech_Lightpipe_Mentor_1271.1001")
     )
-    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/904ecd1e-1c2c-450a-8894-d50bc09b4e22"
-      (reference "H2") (unit 1) (value "Mech_Lightpipe_Mentor_1271_1001") (footprint "antmicro-footprints:Mech_Lightpipe_Mentor_1271_1001")
+    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/c905e32e-16d3-41fc-b0f5-7636c2405295"
+      (reference "H?") (unit 1) (value "Mech_Lightpipe_Mentor_1271.1001") (footprint "antmicro-footprints:Mech_Lightpipe_Mentor_1271.1001")
     )
-    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/a823b2b8-f02d-481f-8155-7f6f51c0572b"
-      (reference "H3") (unit 1) (value "Mech_Lightpipe_Mentor_1271_1001") (footprint "antmicro-footprints:Mech_Lightpipe_Mentor_1271_1001")
+    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/e4364ed2-8236-4654-9ba6-d9d197df86b1"
+      (reference "H?") (unit 1) (value "Mech_Lightpipe_Mentor_1271.1001") (footprint "antmicro-footprints:Mech_Lightpipe_Mentor_1271.1001")
     )
     (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/5ad9ea7b-3e5f-40a8-84e9-abba5434efa4"
       (reference "J2") (unit 1) (value "S2B-XH-A-1_LF_SN") (footprint "antmicro-footprints:JST_S2B-XH-A-1_LF_SN")
