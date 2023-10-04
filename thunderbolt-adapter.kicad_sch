@@ -1896,11 +1896,11 @@
     (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/e4364ed2-8236-4654-9ba6-d9d197df86b1"
       (reference "H3") (unit 1) (value "Mech_Lightpipe_Mentor_1271.1001") (footprint "antmicro-footprints:Mech_Lightpipe_Mentor_1271.1001")
     )
-    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/5ad9ea7b-3e5f-40a8-84e9-abba5434efa4"
-      (reference "J2") (unit 1) (value "S2B-XH-A-1_LF_SN") (footprint "antmicro-footprints:JST_S2B-XH-A-1_LF_SN")
+    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/8e9c5447-e775-4c70-8418-9cacd83aabe4"
+      (reference "J2") (unit 1) (value "PinHeader_1x2_P2.5mm_Drill1mm_Horizontal_Shrouded") (footprint "antmicro-footprints:PinHeader_1x2_P2.5mm_Drill1mm_Horizontal_Shrouded")
     )
-    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/05fc2e8c-8c9f-4a62-bb2c-43ffca640dc4"
-      (reference "J3") (unit 1) (value "S4B-XH-A-1_LF_SN") (footprint "antmicro-footprints:JST_S4B-XH-A-1_LF_SN")
+    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/874de362-c9a4-4b02-9ba5-e4a335bd5f71"
+      (reference "J3") (unit 1) (value "PinHeader_1x4_P2.5mm_Drill1mm_Horizontal_Shrouded") (footprint "antmicro-footprints:PinHeader_1x4_P2.5mm_Drill1mm_Horizontal_Shrouded")
     )
     (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/71d52116-16b3-4439-8472-73c830b0936a"
       (reference "J4") (unit 1) (value "Conn_Molex_NanoFit_1053131202") (footprint "antmicro-footprints:Conn_Molex_NanoFit_1053131202")
@@ -1917,14 +1917,14 @@
     (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/8aa7c3c3-05a5-46a8-bb34-4eb8637903c1"
       (reference "J9") (unit 1) (value "USB-C_DX07S024JJ2") (footprint "antmicro-footprints:USB-3.1-Gen2_Type-C_JAE_DX07S024JJ2_Horizontal")
     )
-    (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/2b5f65d4-3efa-44da-a9a6-418d3f9c8a52"
-      (reference "L1") (unit 1) (value "L_6u8_12.8A_XAL7070") (footprint "antmicro-footprints:L_Coilcraft_XAL7070")
+    (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/6cc8f119-c223-4333-977c-7b75f8117dc6"
+      (reference "L1") (unit 1) (value "L_6u8_12.8A_Coilcraft-XAL7070") (footprint "antmicro-footprints:L_Coilcraft-XAL7070")
     )
-    (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/670c70de-ed6e-45d9-8c5d-68c10be0e016"
-      (reference "L2") (unit 1) (value "L_2u2_10.4A_XAL5030") (footprint "antmicro-footprints:L_Coilcraft_XAL5030")
+    (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/40a668d2-6014-4dc8-abb1-8645fd58496c"
+      (reference "L2") (unit 1) (value "L_2u2_9.7A_Coilcraft-XAL5030") (footprint "antmicro-footprints:L_Coilcraft-XAL5030")
     )
-    (path "/edaf7d73-1c1f-440c-ac8b-fe148d6370ed/fb76d431-49cf-4c81-8841-92ac66f5e6b7"
-      (reference "L3") (unit 1) (value "L_680n_6.8A_IHLP1616BZ") (footprint "antmicro-footprints:L_Vishay_IHLP1616BZ")
+    (path "/edaf7d73-1c1f-440c-ac8b-fe148d6370ed/a2b98b73-87a0-4770-9866-ab076895e076"
+      (reference "L3") (unit 1) (value "L_680n_7.6A_IHLP1616BZ") (footprint "antmicro-footprints:L_Vishay-IHLP1616BZ")
     )
     (path "/edaf7d73-1c1f-440c-ac8b-fe148d6370ed/7660bcd3-c91f-4d96-95bb-c303807f90d9"
       (reference "L4") (unit 1) (value "L_1u_1.8A_0603") (footprint "antmicro-footprints:L_0603_1608Metric")
@@ -2458,7 +2458,7 @@
       (reference "TP12") (unit 1) (value "TP_1mm_SMD") (footprint "antmicro-footprints:Testpoint_smd_1mm")
     )
     (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/14e0d49e-541f-4d68-ba51-a9da4664bf43"
-      (reference "U1") (unit 1) (value "LT8350RV#PBF") (footprint "antmicro-footprints:LT8350")
+      (reference "U1") (unit 1) (value "LT8350RV#PBF") (footprint "antmicro-footprints:QFN-32-4EP_4x6mm_P0.5mm")
     )
     (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/093c9e4b-14cb-466c-ae83-146ba648df7b"
       (reference "U2") (unit 1) (value "MP2386GG") (footprint "antmicro-footprints:QFN-11_2x2mm_P0.5mm")
@@ -2481,8 +2481,8 @@
     (path "/42f40c2a-7d08-4162-a1a3-933510b09406/284fc9b0-1ccb-4800-b68a-f7e91cbabb70"
       (reference "U7") (unit 1) (value "MX25L8006EM2I-12G") (footprint "antmicro-footprints:SOIC-8_5.3x5.3x2mm_P1.27mm")
     )
-    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/4f703de1-7fa9-4756-8ee6-c1b040a4b096"
-      (reference "U8") (unit 1) (value "MAX6643LBBAEET") (footprint "antmicro-footprints:SOP63P602X175-16N")
+    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/efa39421-a4ff-4a0c-a7c0-6a3fa3def830"
+      (reference "U8") (unit 1) (value "MAX6643_QSOP") (footprint "antmicro-footprints:QSOP-16_3x4.75x0.75mm_P0.5mm")
     )
     (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/ff6f65eb-dd59-4908-9c82-fe939a8ccc85"
       (reference "U9") (unit 1) (value "LM1117MP-3.3_NOPB") (footprint "antmicro-footprints:SOT-223")
