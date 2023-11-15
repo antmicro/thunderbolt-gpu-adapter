@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "thunderbolt-adapter-footprints")(type "KiCad")(uri "${KIPRJMOD}/lib/thunderbolt-adapter-footprints")(options "")(descr ""))
+)
