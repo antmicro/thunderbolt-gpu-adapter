@@ -26,18 +26,23 @@ This edge connector is designed for seamless integration with a PCB backplane, a
 This approach has the following advantages:
 
 1. Power Distribution
+
 The edge connector is used to power the Thunderbolt GPU adapter from the PCB backplane. This enables efficient and consistent power supply to all connected PCIe devices, while providing power management and monitoring for individual devices.
 
 2. Information Aggregation
+
 Beyond power, the edge connector facilitates communication between the Thunderbolt GPU adapters and the backplane PCB. This communication allows the aggregation of status data from individual boards, providing a centralized view of the entire cluster's health and performance.
 
 3. Ease of Expansion
+
 The modular nature of the board allows for simple expansion of the system, making it scalable, allowing users to incrementally increase computing power by connecting additional cards to the backplane.
 
 4. Simple Connectivity
+
 Thunderbolt's plug-and-play capability eliminates the need for complex configurations. Users can connect eny PCIe devices to host devices effortlessly.
 
 5. Hot Swapping
+
 The Thunderbolt interface supports hot-swapping, allowing users to connect or disconnect PCIe devices without rebooting the host system. This flexibility is particularly for dynamic cluster environments.
 
 ## Project structure
