@@ -51,6 +51,7 @@
   )
 
 
+
   (image (at 146.685 98.425) (scale 3.5054)
     (uuid e1a2b3df-f56e-4677-9731-f622698c56c6)
     (data
@@ -1366,7 +1367,7 @@
     (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/fead20bd-78bb-4d47-9dff-04b484a94bba"
       (reference "#PWR0176") (unit 1) (value "GND") (footprint "")
     )
-    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/5e730dd7-9bb4-46c1-a810-1dea678c602a"
+    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/351d347f-ea0d-461a-bd0b-99d70c4f2d44"
       (reference "#PWR0177") (unit 1) (value "GND") (footprint "")
     )
     (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/12de855b-38c0-4fe6-b828-30b5a70081d6"
@@ -1993,6 +1994,9 @@
     (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/99f01cc6-fee0-4d31-9402-10367b2867d3"
       (reference "Q6") (unit 1) (value "SI7613DN-T1-GE3") (footprint "thunderbolt-gpu-adapter-footprints:Vishay_PowerPAK_1212-8_Single")
     )
+    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/8f972587-6889-4fdd-ab8c-2e31682266c3"
+      (reference "Q7") (unit 1) (value "BC817-25W") (footprint "thunderbolt-gpu-adapter-footprints:SOT-323")
+    )
     (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/408fdfdf-b678-40c8-8bf2-f6e27bcd3e97"
       (reference "Q8") (unit 1) (value "BC817-25W") (footprint "thunderbolt-gpu-adapter-footprints:SOT-323")
     )
@@ -2341,8 +2345,8 @@
     (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/1c6745e5-4432-4d59-88f8-fd4ba4dbbd11"
       (reference "R111") (unit 1) (value "R_0R_0603") (footprint "thunderbolt-gpu-adapter-footprints:R_0603_1608Metric")
     )
-    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/4260ec72-bfda-462b-b546-d545600b5e61"
-      (reference "R112") (unit 1) (value "R_0R_0603") (footprint "thunderbolt-gpu-adapter-footprints:R_0603_1608Metric")
+    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/7a0c4b69-0b0d-47bb-a7f9-c0c8e823bd92"
+      (reference "R112") (unit 1) (value "R_10k_0402") (footprint "antmicro-footprints:R_0402_1005Metric")
     )
     (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/0313c12b-5348-44ca-83d9-c8a63f48083a"
       (reference "R113") (unit 1) (value "R_0R_0603") (footprint "thunderbolt-gpu-adapter-footprints:R_0603_1608Metric")
@@ -2442,6 +2446,12 @@
     )
     (path "/edaf7d73-1c1f-440c-ac8b-fe148d6370ed/f45d882e-c287-49c3-a3ce-2c0bd01f30ff"
       (reference "R145") (unit 1) (value "R_8k2_0402") (footprint "antmicro-footprints:R_0402_1005Metric")
+    )
+    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/d0eaac97-742d-450b-8d57-a3376dbab883"
+      (reference "R146") (unit 1) (value "R_100k_0402") (footprint "antmicro-footprints:R_0402_1005Metric")
+    )
+    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/0525795c-c145-41c1-84ab-a47cf1a8b77e"
+      (reference "R147") (unit 1) (value "R_10k_0402") (footprint "antmicro-footprints:R_0402_1005Metric")
     )
     (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/5a87fdaf-b00d-4769-bb14-b2107235dc82"
       (reference "TP1") (unit 1) (value "TP_1mm_SMD") (footprint "thunderbolt-gpu-adapter-footprints:Testpoint_smd_1mm")
