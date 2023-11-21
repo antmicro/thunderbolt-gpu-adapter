@@ -5,10 +5,11 @@
   (paper "A3" portrait)
 
   (title_block
-    (date "2023-05-09")
-    (rev "1.1.1")
+    (title "Thunderbolt GPU Adapter")
+    (date "2023-11-21")
+    (rev "1.1.2")
+    (company "Antmicro Ltd")
     (comment 1 "www.antmicro.com")
-    (comment 2 "Antmicro Ltd.")
   )
 
   (lib_symbols
@@ -2513,9 +2514,6 @@
     )
     (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/87c04262-66cf-4499-87cd-d673ebb4d0a4"
       (reference "U11") (unit 1) (value "AP22615A_TSOT26") (footprint "antmicro-footprints:TSOT23-6")
-    )
-    (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/feae62f1-4e4c-447c-9a8c-da62170a4a1f"
-      (reference "U12") (unit 1) (value "LT8350RV") (footprint "thunderbolt-gpu-adapter-footprints:QFN-32-4EP_4x6mm_P0.5mm")
     )
     (path "/edaf7d73-1c1f-440c-ac8b-fe148d6370ed/b0a95c8b-a734-477e-a461-9131f29023c7"
       (reference "U13") (unit 1) (value "MCP6541_SOT23-5_Split") (footprint "antmicro-footprints:SOT-23-5")

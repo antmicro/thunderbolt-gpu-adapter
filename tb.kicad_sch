@@ -5,11 +5,11 @@
   (paper "A3" portrait)
 
   (title_block
-    (title "Thunderbolt to PCIe bridge")
-    (date "2023-05-09")
-    (rev "1.1.1")
+    (title "Thunderbolt GPU Adapter")
+    (date "2023-11-21")
+    (rev "1.1.2")
+    (company "Antmicro Ltd")
     (comment 1 "www.antmicro.com")
-    (comment 2 "Antmicro Ltd.")
   )
 
   (lib_symbols
@@ -5582,7 +5582,7 @@
     (property "Author" "Antmicro" (id 8) (at 177.8 381 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
     )
-    (property "Val" "25.000MHz" (id 9) (at 186.69 386.08 0))
+    (property "Val" "25.000MHz" (id 9) (at 204.47 365.76 90))
     (pin "1" (uuid 0a46907a-9dfe-44d3-8480-5c0df5595095))
     (pin "2" (uuid a4c18af9-0ec8-4834-9385-c232e969b417))
     (pin "3" (uuid 5bbb084b-4bd5-4e75-9533-600490bcc67c))

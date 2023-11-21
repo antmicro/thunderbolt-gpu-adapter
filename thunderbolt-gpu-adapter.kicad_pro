@@ -44,8 +44,8 @@
         "silk_text_thickness": 0.15,
         "silk_text_upright": false,
         "zones": {
-          "45_degree_only": false,
-          "min_clearance": 0.25
+          "45_degree_only": true,
+          "min_clearance": 0.15
         }
       },
       "diff_pair_dimensions": [
@@ -59,8 +59,11 @@
         "courtyards_overlap|97677146|110650001|2927ffb3-a316-402e-aac9-893102c0b43d|6fc7b6cb-a27d-44ce-9776-0bb14d27b506",
         "items_not_allowed|85220000|135230000|5f01c1bc-cf4c-4abd-ae41-7750447b0cfb|00000000-0000-0000-0000-000000000000",
         "items_not_allowed|85240000|130020000|d1f205dd-09e0-4e57-a84d-3170e1b1030d|00000000-0000-0000-0000-000000000000",
+        "silk_over_copper|105052145|111490000|2919ecde-0a25-4951-8c3a-315551b7ddb4|3340289f-48ef-47a0-9bd7-bfe8a045b99d",
         "silk_over_copper|105102145|111282500|2919ecde-0a25-4951-8c3a-315551b7ddb4|3340289f-48ef-47a0-9bd7-bfe8a045b99d",
+        "silk_over_copper|214651000|112300000|e012be9a-0b3f-471e-a1b3-631b32c97d78|c725e9e2-6eb7-40da-8f06-a43c9fb3fd0a",
         "silk_over_copper|214758097|112319922|e012be9a-0b3f-471e-a1b3-631b32c97d78|c725e9e2-6eb7-40da-8f06-a43c9fb3fd0a",
+        "silk_over_copper|217541903|118380078|a203581e-7924-4d16-8944-6d259802dac8|63cbf4a0-4043-4407-896a-045756e149bb",
         "silk_over_copper|217609922|118351903|a203581e-7924-4d16-8944-6d259802dac8|63cbf4a0-4043-4407-896a-045756e149bb",
         "silk_overlap|104102145|110709000|4ad26662-fe0a-412a-abcf-e16a12081e1f|ed638fc9-e1a5-4542-9543-c254f9ed09d9"
       ],
