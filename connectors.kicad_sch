@@ -7312,7 +7312,7 @@
   )
 
   (symbol (lib_id "thunderbolt-gpu-adapter:R_10k_0402") (at 125.73 281.94 90) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board yes)
     (uuid 2395ba03-62ab-408a-b97e-36a149df2f8e)
     (property "Reference" "R129" (id 0) (at 127.381 278.5694 90)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify right))
