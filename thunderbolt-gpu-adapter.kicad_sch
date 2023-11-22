@@ -2360,6 +2360,9 @@
     (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/3af0b8fa-498d-4dba-848c-453167634725"
       (reference "R116") (unit 1) (value "R_1k_0402") (footprint "thunderbolt-gpu-adapter-footprints:R_0402_1005Metric")
     )
+    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/3c0f96e1-b469-4506-94ea-7441796a828f"
+      (reference "R117") (unit 1) (value "R_100k_0402") (footprint "antmicro-footprints:R_0402_1005Metric")
+    )
     (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/0b2846d4-252d-46f0-be2b-51b25a7f020b"
       (reference "R118") (unit 1) (value "R_0R_0603") (footprint "thunderbolt-gpu-adapter-footprints:R_0603_1608Metric")
     )
@@ -2398,6 +2401,12 @@
     )
     (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/c4cfe653-5f09-4a27-b2b8-146165c0f154"
       (reference "R130") (unit 1) (value "R_0R_0603") (footprint "thunderbolt-gpu-adapter-footprints:R_0603_1608Metric")
+    )
+    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/0bad18e3-54bf-4b0e-9ba1-24fa066896f3"
+      (reference "R131") (unit 1) (value "R_100k_0402") (footprint "antmicro-footprints:R_0402_1005Metric")
+    )
+    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/c35723af-79ec-4e16-8d0f-57d297ea5603"
+      (reference "R132") (unit 1) (value "R_100k_0402") (footprint "antmicro-footprints:R_0402_1005Metric")
     )
     (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/5b344df9-20d2-4abb-ad4f-bbe77ecce14c"
       (reference "R133") (unit 1) (value "R_330R_0402") (footprint "thunderbolt-gpu-adapter-footprints:R_0402_1005Metric")
@@ -2443,15 +2452,6 @@
     )
     (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/0525795c-c145-41c1-84ab-a47cf1a8b77e"
       (reference "R147") (unit 1) (value "R_10k_0402") (footprint "antmicro-footprints:R_0402_1005Metric")
-    )
-    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/0bad18e3-54bf-4b0e-9ba1-24fa066896f3"
-      (reference "R?") (unit 1) (value "R_100k_0402") (footprint "antmicro-footprints:R_0402_1005Metric")
-    )
-    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/3c0f96e1-b469-4506-94ea-7441796a828f"
-      (reference "R?") (unit 1) (value "R_100k_0402") (footprint "antmicro-footprints:R_0402_1005Metric")
-    )
-    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/c35723af-79ec-4e16-8d0f-57d297ea5603"
-      (reference "R?") (unit 1) (value "R_100k_0402") (footprint "antmicro-footprints:R_0402_1005Metric")
     )
     (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/5a87fdaf-b00d-4769-bb14-b2107235dc82"
       (reference "TP1") (unit 1) (value "TP_1mm_SMD") (footprint "thunderbolt-gpu-adapter-footprints:Testpoint_smd_1mm")
