@@ -2344,14 +2344,11 @@
     (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/1c6745e5-4432-4d59-88f8-fd4ba4dbbd11"
       (reference "R111") (unit 1) (value "R_0R_0603") (footprint "thunderbolt-gpu-adapter-footprints:R_0603_1608Metric")
     )
-    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/7a0c4b69-0b0d-47bb-a7f9-c0c8e823bd92"
-      (reference "R112") (unit 1) (value "R_10k_0402") (footprint "thunderbolt-gpu-adapter-footprints:R_0402_1005Metric")
-    )
     (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/0313c12b-5348-44ca-83d9-c8a63f48083a"
       (reference "R113") (unit 1) (value "R_0R_0603") (footprint "thunderbolt-gpu-adapter-footprints:R_0603_1608Metric")
     )
-    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/26d77e3c-9143-45e0-94fe-0a1cd1e0d4a9"
-      (reference "R114") (unit 1) (value "R_10k_0402") (footprint "thunderbolt-gpu-adapter-footprints:R_0402_1005Metric")
+    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/2d269c43-3dc9-40e6-b9e4-720eb24ba329"
+      (reference "R114") (unit 1) (value "R_4k7_0402") (footprint "antmicro-footprints:R_0402_1005Metric")
     )
     (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/fef0692e-ba5e-4dab-9f60-82ca69362b6b"
       (reference "R115") (unit 1) (value "R_10k_0402") (footprint "thunderbolt-gpu-adapter-footprints:R_0402_1005Metric")
@@ -2395,8 +2392,8 @@
     (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/90ef45a6-4c47-41d5-a41c-652e81640975"
       (reference "R128") (unit 1) (value "R_68R_0402") (footprint "thunderbolt-gpu-adapter-footprints:R_0402_1005Metric")
     )
-    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/2395ba03-62ab-408a-b97e-36a149df2f8e"
-      (reference "R129") (unit 1) (value "R_10k_0402") (footprint "thunderbolt-gpu-adapter-footprints:R_0402_1005Metric")
+    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/d0f5614f-0c90-4393-aaf8-665cad2c10e0"
+      (reference "R129") (unit 1) (value "R_4k7_0402") (footprint "antmicro-footprints:R_0402_1005Metric")
     )
     (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/c4cfe653-5f09-4a27-b2b8-146165c0f154"
       (reference "R130") (unit 1) (value "R_0R_0603") (footprint "thunderbolt-gpu-adapter-footprints:R_0603_1608Metric")
