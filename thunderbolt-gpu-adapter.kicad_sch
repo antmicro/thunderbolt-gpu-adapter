@@ -1486,6 +1486,15 @@
     (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/8312a873-d432-4f6c-bc79-d07f44dc7836"
       (reference "#PWR0206") (unit 1) (value "GND") (footprint "")
     )
+    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/c7a221bc-0ce9-4008-b4cb-23e4523aa8ce"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/cc57077d-b9dc-48fe-b07a-d0a15efea5bb"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/d593b397-de74-458d-a259-8c4dcc6ac2c1"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/ee93009a-ac01-4467-98b4-1c4e226d60d4"
       (reference "C1") (unit 1) (value "C_10u_0805_35V") (footprint "thunderbolt-gpu-adapter-footprints:C_0805_2012Metric")
     )
@@ -1983,6 +1992,12 @@
     )
     (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/8aa7c3c3-05a5-46a8-bb34-4eb8637903c1"
       (reference "J9") (unit 1) (value "USB-C_DX07S024JJ2") (footprint "thunderbolt-gpu-adapter-footprints:USB-3.1-Gen2_Type-C_JAE_DX07S024JJ2_Horizontal")
+    )
+    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/260a8aa0-210e-4ebb-96f9-b8dfb43a45a4"
+      (reference "J?") (unit 1) (value "JST_SH_1x2_SM02B-SRSS-TB-LF-SN") (footprint "antmicro-footprints:Conn_JST_SH_1x2_SM02B-SRSS-TB-LF-SN")
+    )
+    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/c2fe095d-44bc-42fc-b5ff-735a7afdcbdd"
+      (reference "J?") (unit 1) (value "JST_SH_1x4_BM04B-SRSS-TB-LF-SN") (footprint "antmicro-footprints:Conn_JST_SH_1x4_BM04B-SRSS-TB-LF-SN")
     )
     (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/6cc8f119-c223-4333-977c-7b75f8117dc6"
       (reference "L1") (unit 1) (value "L_6u8_12.8A_Coilcraft-XAL7070") (footprint "thunderbolt-gpu-adapter-footprints:L_Coilcraft-XAL7070")
