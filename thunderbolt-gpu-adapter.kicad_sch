@@ -2395,6 +2395,9 @@
     (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/1c6745e5-4432-4d59-88f8-fd4ba4dbbd11"
       (reference "R111") (unit 1) (value "R_0R_0603") (footprint "thunderbolt-gpu-adapter-footprints:R_0603_1608Metric")
     )
+    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/84b13a4c-cca5-4da7-9b0b-0eaddf5fdd5f"
+      (reference "R112") (unit 1) (value "R_10k_0402") (footprint "thunderbolt-gpu-adapter-footprints:R_0402_1005Metric")
+    )
     (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/0313c12b-5348-44ca-83d9-c8a63f48083a"
       (reference "R113") (unit 1) (value "R_0R_0603") (footprint "thunderbolt-gpu-adapter-footprints:R_0603_1608Metric")
     )
