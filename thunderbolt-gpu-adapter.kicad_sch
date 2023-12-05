@@ -1495,10 +1495,43 @@
     (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/c7a221bc-0ce9-4008-b4cb-23e4523aa8ce"
       (reference "#PWR0208") (unit 1) (value "GND") (footprint "")
     )
-    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/6be6f28a-91f2-4bbd-ba0c-5bec00a517b0"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
-    )
     (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/74290054-0b71-4147-902f-3d7a491062e8"
+      (reference "#PWR0209") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/6be6f28a-91f2-4bbd-ba0c-5bec00a517b0"
+      (reference "#PWR0210") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/153b0d50-611c-40aa-ba91-41d63517968f"
+      (reference "#PWR0211") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/0f6de9d2-a029-4a4d-9f08-1ecae343af21"
+      (reference "#PWR0212") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/926e441c-9d17-48ff-b607-f303abb0b15f"
+      (reference "#PWR0213") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/db1fb5f4-37e3-43fc-b368-ac07f207e49e"
+      (reference "#PWR0214") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/9fd00a23-b7e0-4311-bde7-5a7a5bc68218"
+      (reference "#PWR0215") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/4b24a283-657f-4a7a-a952-07ff8ecaa31d"
+      (reference "#PWR0216") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/d426f158-e255-4fd5-af3c-cf63978280e2"
+      (reference "#PWR0217") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/a05fc79a-ff27-4cdc-b5b9-c074091638ba"
+      (reference "#PWR0218") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/519feee1-da07-4645-9a7f-9429bb86c449"
+      (reference "#PWR0219") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/efcdf316-80af-4425-ba39-325aba5d1e4c"
+      (reference "#PWR0222") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/c50e72c3-7a0f-4ab5-ba0f-904ba0262792"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/ee93009a-ac01-4467-98b4-1c4e226d60d4"
@@ -1907,10 +1940,49 @@
       (reference "C135") (unit 1) (value "C_100n_0402") (footprint "thunderbolt-gpu-adapter-footprints:C_0402_1005Metric")
     )
     (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/5cd990ed-769e-4d44-8ca1-7f63b8df9afe"
-      (reference "C?") (unit 1) (value "C_330u_KEMET_B") (footprint "thunderbolt-gpu-adapter-footprints:KEMET_B")
+      (reference "C136") (unit 1) (value "C_330u_KEMET_B") (footprint "thunderbolt-gpu-adapter-footprints:KEMET_B")
     )
     (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/be95c3e0-07af-45f0-a36e-b5b4d11b5dd5"
-      (reference "C?") (unit 1) (value "C_330u_KEMET_B") (footprint "thunderbolt-gpu-adapter-footprints:KEMET_B")
+      (reference "C137") (unit 1) (value "C_330u_KEMET_B") (footprint "thunderbolt-gpu-adapter-footprints:KEMET_B")
+    )
+    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/ae9e0853-7658-49de-8cbf-8546e4b48c31"
+      (reference "C138") (unit 1) (value "C_330u_KEMET_B") (footprint "thunderbolt-gpu-adapter-footprints:KEMET_B")
+    )
+    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/d203f625-6830-4ce7-b378-7e6121d161d4"
+      (reference "C139") (unit 1) (value "C_Pol_220u_16V_KEMET-T491-E") (footprint "thunderbolt-gpu-adapter-footprints:C_Pol_EIA-E")
+    )
+    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/53a9d951-7ac2-4cb8-b43d-ca59bfa4ca27"
+      (reference "C140") (unit 1) (value "C_330u_KEMET_B") (footprint "thunderbolt-gpu-adapter-footprints:KEMET_B")
+    )
+    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/2d1b918f-7ae6-43a4-a79c-e4706117c849"
+      (reference "C141") (unit 1) (value "C_330u_KEMET_B") (footprint "thunderbolt-gpu-adapter-footprints:KEMET_B")
+    )
+    (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/0dccb29c-2c38-4d3b-ab91-1c69b4f04518"
+      (reference "C142") (unit 1) (value "C_330u_KEMET_B") (footprint "thunderbolt-gpu-adapter-footprints:KEMET_B")
+    )
+    (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/8c5ce153-4c9d-4417-8799-173274f01549"
+      (reference "C143") (unit 1) (value "C_330u_KEMET_B") (footprint "thunderbolt-gpu-adapter-footprints:KEMET_B")
+    )
+    (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/0b0ffd16-0fc3-4791-bd17-e91fd80c573f"
+      (reference "C144") (unit 1) (value "C_330u_KEMET_B") (footprint "thunderbolt-gpu-adapter-footprints:KEMET_B")
+    )
+    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/6964815f-16a1-4f1a-b89c-bd8fc2fae4aa"
+      (reference "C145") (unit 1) (value "C_Pol_330u_6.3V_KEMET-T520-B") (footprint "antmicro-footprints:C_Pol_EIA-B")
+    )
+    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/fa8fe30a-6cbf-4e75-a956-6bc48fae465c"
+      (reference "C146") (unit 1) (value "C_Pol_330u_16V_KYOCERA-AVX-TCJ-E") (footprint "antmicro-footprints:C_Pol_EIA-E")
+    )
+    (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/9e046641-185e-44ff-84d3-646a10f3afa5"
+      (reference "C147") (unit 1) (value "C_100n_0402") (footprint "antmicro-footprints:C_0402_1005Metric")
+    )
+    (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/6e3a568d-5798-4104-9814-3edb7188ed88"
+      (reference "C150") (unit 1) (value "C_100n_0402") (footprint "antmicro-footprints:C_0402_1005Metric")
+    )
+    (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/37048925-d737-49ce-b36b-3baf349d09a7"
+      (reference "C151") (unit 1) (value "C_100n_0402") (footprint "antmicro-footprints:C_0402_1005Metric")
+    )
+    (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/c103766c-004b-4183-873d-736355cd9081"
+      (reference "C?") (unit 1) (value "C_100n_0402") (footprint "antmicro-footprints:C_0402_1005Metric")
     )
     (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/3de2ad43-313e-4096-b033-2f125adc5590"
       (reference "D1") (unit 1) (value "MM3Z3V3C") (footprint "thunderbolt-gpu-adapter-footprints:D_SOD-323F")
@@ -2514,6 +2586,9 @@
     )
     (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/0525795c-c145-41c1-84ab-a47cf1a8b77e"
       (reference "R147") (unit 1) (value "R_10k_0402") (footprint "thunderbolt-gpu-adapter-footprints:R_0402_1005Metric")
+    )
+    (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/c8e7e389-5041-4361-8e2c-6345aaec70da"
+      (reference "R148") (unit 1) (value "R_1k_0402") (footprint "thunderbolt-gpu-adapter-footprints:R_0402_1005Metric")
     )
     (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/5a87fdaf-b00d-4769-bb14-b2107235dc82"
       (reference "TP1") (unit 1) (value "TP_1mm_SMD") (footprint "thunderbolt-gpu-adapter-footprints:TP_SMD_1mm")
