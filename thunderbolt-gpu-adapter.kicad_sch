@@ -1507,9 +1507,6 @@
     (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/0f6de9d2-a029-4a4d-9f08-1ecae343af21"
       (reference "#PWR0212") (unit 1) (value "GND") (footprint "")
     )
-    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/926e441c-9d17-48ff-b607-f303abb0b15f"
-      (reference "#PWR0213") (unit 1) (value "GND") (footprint "")
-    )
     (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/db1fb5f4-37e3-43fc-b368-ac07f207e49e"
       (reference "#PWR0214") (unit 1) (value "GND") (footprint "")
     )
@@ -1539,6 +1536,12 @@
     )
     (path "/edaf7d73-1c1f-440c-ac8b-fe148d6370ed/5d5f5eed-4b5a-4d6b-ab1d-ce4c982819c0"
       (reference "#PWR0223") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/3c33adea-f8d6-416d-93e5-aaec7249c954"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/fe921e6b-22ad-40db-aff5-564b2a8893b2"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/ee93009a-ac01-4467-98b4-1c4e226d60d4"
       (reference "C1") (unit 1) (value "C_10u_0805_35V") (footprint "thunderbolt-gpu-adapter-footprints:C_0805_2012Metric")
@@ -1912,11 +1915,11 @@
     (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/3e1cee4f-3e83-4023-9dae-7d2b0c2f48e1"
       (reference "C124") (unit 1) (value "C_100n_0402") (footprint "thunderbolt-gpu-adapter-footprints:C_0402_1005Metric")
     )
-    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/a0bc30e9-1ea4-4314-ae5a-05c62d961f54"
-      (reference "C125") (unit 1) (value "C_Pol_220u_16V_KEMET-T491-E") (footprint "thunderbolt-gpu-adapter-footprints:C_Pol_EIA-E")
+    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/90eed003-4b3f-49a4-a000-7a124675f16e"
+      (reference "C125") (unit 1) (value "C_Pol_330u_16V_KYOCERA-AVX-TCJ-E") (footprint "antmicro-footprints:C_Pol_EIA-E")
     )
-    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/3213f986-16b8-4ee1-a13b-30356f10e82e"
-      (reference "C126") (unit 1) (value "C_330u_KEMET_B") (footprint "thunderbolt-gpu-adapter-footprints:KEMET_B")
+    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/a95ad12f-0b49-459a-9fb0-700aed278d1d"
+      (reference "C126") (unit 1) (value "C_Pol_330u_16V_KYOCERA-AVX-TCJ-E") (footprint "antmicro-footprints:C_Pol_EIA-E")
     )
     (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/fea61530-60ed-4f5c-99ce-659169c9aca2"
       (reference "C127") (unit 1) (value "C_10u_0805_35V") (footprint "thunderbolt-gpu-adapter-footprints:C_0805_2012Metric")
@@ -1954,29 +1957,20 @@
     (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/ae9e0853-7658-49de-8cbf-8546e4b48c31"
       (reference "C138") (unit 1) (value "C_330u_KEMET_B") (footprint "thunderbolt-gpu-adapter-footprints:KEMET_B")
     )
-    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/d203f625-6830-4ce7-b378-7e6121d161d4"
-      (reference "C139") (unit 1) (value "C_Pol_220u_16V_KEMET-T491-E") (footprint "thunderbolt-gpu-adapter-footprints:C_Pol_EIA-E")
+    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/1f5d1b48-4cf1-4c99-badc-4e66eb1c1246"
+      (reference "C139") (unit 1) (value "C_Pol_330u_6.3V_KEMET-T520-B") (footprint "antmicro-footprints:C_Pol_EIA-B")
     )
-    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/53a9d951-7ac2-4cb8-b43d-ca59bfa4ca27"
-      (reference "C140") (unit 1) (value "C_330u_KEMET_B") (footprint "thunderbolt-gpu-adapter-footprints:KEMET_B")
+    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/f6f64bba-6ace-47a4-8ff0-a6ff307a7af2"
+      (reference "C140") (unit 1) (value "C_Pol_330u_6.3V_KEMET-T520-B") (footprint "antmicro-footprints:C_Pol_EIA-B")
     )
-    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/2d1b918f-7ae6-43a4-a79c-e4706117c849"
-      (reference "C141") (unit 1) (value "C_330u_KEMET_B") (footprint "thunderbolt-gpu-adapter-footprints:KEMET_B")
+    (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/3e9c4efe-58a1-49d5-b51f-d9e243e5f7ce"
+      (reference "C141") (unit 1) (value "C_Pol_330u_6.3V_KEMET-T520-B") (footprint "antmicro-footprints:C_Pol_EIA-B")
     )
-    (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/0dccb29c-2c38-4d3b-ab91-1c69b4f04518"
-      (reference "C142") (unit 1) (value "C_330u_KEMET_B") (footprint "thunderbolt-gpu-adapter-footprints:KEMET_B")
+    (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/488fa734-b2b3-4263-8f95-9e14602da5d3"
+      (reference "C142") (unit 1) (value "C_Pol_330u_6.3V_KEMET-T520-B") (footprint "antmicro-footprints:C_Pol_EIA-B")
     )
-    (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/8c5ce153-4c9d-4417-8799-173274f01549"
-      (reference "C143") (unit 1) (value "C_330u_KEMET_B") (footprint "thunderbolt-gpu-adapter-footprints:KEMET_B")
-    )
-    (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/0b0ffd16-0fc3-4791-bd17-e91fd80c573f"
-      (reference "C144") (unit 1) (value "C_330u_KEMET_B") (footprint "thunderbolt-gpu-adapter-footprints:KEMET_B")
-    )
-    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/6964815f-16a1-4f1a-b89c-bd8fc2fae4aa"
-      (reference "C145") (unit 1) (value "C_Pol_330u_6.3V_KEMET-T520-B") (footprint "antmicro-footprints:C_Pol_EIA-B")
-    )
-    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/fa8fe30a-6cbf-4e75-a956-6bc48fae465c"
-      (reference "C146") (unit 1) (value "C_Pol_330u_16V_KYOCERA-AVX-TCJ-E") (footprint "antmicro-footprints:C_Pol_EIA-E")
+    (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/f3da034d-3232-4219-93d3-61232d3eca47"
+      (reference "C143") (unit 1) (value "C_Pol_330u_6.3V_KEMET-T520-B") (footprint "antmicro-footprints:C_Pol_EIA-B")
     )
     (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/9e046641-185e-44ff-84d3-646a10f3afa5"
       (reference "C147") (unit 1) (value "C_100n_0402") (footprint "antmicro-footprints:C_0402_1005Metric")
@@ -1995,6 +1989,12 @@
     )
     (path "/edaf7d73-1c1f-440c-ac8b-fe148d6370ed/c198745c-cb91-42e5-b703-b577bb81f1e6"
       (reference "C152") (unit 1) (value "C_100n_0402") (footprint "thunderbolt-gpu-adapter-footprints:C_0402_1005Metric")
+    )
+    (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/e10f17c4-79c5-433f-b5d4-17ec194d3755"
+      (reference "C?") (unit 1) (value "C_Pol_330u_16V_KYOCERA-AVX-TCJ-E") (footprint "antmicro-footprints:C_Pol_EIA-E")
+    )
+    (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/f144f362-ce2a-432f-9e87-d6609a910047"
+      (reference "C?") (unit 1) (value "C_Pol_330u_16V_KYOCERA-AVX-TCJ-E") (footprint "antmicro-footprints:C_Pol_EIA-E")
     )
     (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/3de2ad43-313e-4096-b033-2f125adc5590"
       (reference "D1") (unit 1) (value "MM3Z3V3C") (footprint "thunderbolt-gpu-adapter-footprints:D_SOD-323F")
