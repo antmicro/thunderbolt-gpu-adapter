@@ -1459,6 +1459,9 @@
     (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/53e48f91-7888-4239-a2f9-11eed8cb275f"
       (reference "#PWR0196") (unit 1) (value "GND") (footprint "")
     )
+    (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/a5147723-4421-45fe-9e2b-b6d4ba07f022"
+      (reference "#PWR0197") (unit 1) (value "GND") (footprint "")
+    )
     (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/ea212029-4a07-4301-90bf-4786fed484f6"
       (reference "#PWR0200") (unit 1) (value "GND") (footprint "")
     )
@@ -1530,9 +1533,6 @@
     )
     (path "/edaf7d73-1c1f-440c-ac8b-fe148d6370ed/5d5f5eed-4b5a-4d6b-ab1d-ce4c982819c0"
       (reference "#PWR0223") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/fe921e6b-22ad-40db-aff5-564b2a8893b2"
-      (reference "#PWR0224") (unit 1) (value "GND") (footprint "")
     )
     (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/588f0e0e-1411-4891-a374-90efd19486e2"
       (reference "#PWR0225") (unit 1) (value "GND") (footprint "")
@@ -1927,6 +1927,9 @@
     (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/e1ca7b93-cee4-41c5-b5d4-c656fc792ba2"
       (reference "C129") (unit 1) (value "C_100n_0402") (footprint "thunderbolt-gpu-adapter-footprints:C_0402_1005Metric")
     )
+    (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/71fe8c3a-f907-4b30-8f59-47b91c59f9a5"
+      (reference "C130") (unit 1) (value "C_Pol_330u_16V_KYOCERA-AVX-TCJ-E") (footprint "antmicro-footprints:C_Pol_EIA-E")
+    )
     (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/ba6b2991-0000-4866-9338-177a4fe4fbed"
       (reference "C131") (unit 1) (value "C_1u_0402") (footprint "thunderbolt-gpu-adapter-footprints:C_0402_1005Metric")
     )
@@ -1968,9 +1971,6 @@
     )
     (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/e10f17c4-79c5-433f-b5d4-17ec194d3755"
       (reference "C144") (unit 1) (value "C_Pol_330u_16V_KYOCERA-AVX-TCJ-E") (footprint "antmicro-footprints:C_Pol_EIA-E")
-    )
-    (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/f144f362-ce2a-432f-9e87-d6609a910047"
-      (reference "C145") (unit 1) (value "C_Pol_330u_16V_KYOCERA-AVX-TCJ-E") (footprint "antmicro-footprints:C_Pol_EIA-E")
     )
     (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/51e8d72b-cb47-4627-9fda-71f514b59e12"
       (reference "C146") (unit 1) (value "C_Pol_330u_6.3V_KEMET-T520-B") (footprint "antmicro-footprints:C_Pol_EIA-B")
