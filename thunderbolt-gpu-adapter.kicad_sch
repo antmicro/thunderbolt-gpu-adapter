@@ -1462,6 +1462,12 @@
     (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/a5147723-4421-45fe-9e2b-b6d4ba07f022"
       (reference "#PWR0197") (unit 1) (value "GND") (footprint "")
     )
+    (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/1d54fb60-1fc1-44f0-b8b9-df0ace3a7361"
+      (reference "#PWR0198") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/d0e80e8b-c667-4a83-9325-5209f63040ce"
+      (reference "#PWR0199") (unit 1) (value "GND") (footprint "")
+    )
     (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/ea212029-4a07-4301-90bf-4786fed484f6"
       (reference "#PWR0200") (unit 1) (value "GND") (footprint "")
     )
@@ -1972,6 +1978,9 @@
     (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/e10f17c4-79c5-433f-b5d4-17ec194d3755"
       (reference "C144") (unit 1) (value "C_Pol_330u_16V_KYOCERA-AVX-TCJ-E") (footprint "antmicro-footprints:C_Pol_EIA-E")
     )
+    (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/30fd7812-193b-4dcf-a195-8088b1367361"
+      (reference "C145") (unit 1) (value "C_Pol_330u_16V_KYOCERA-AVX-TCJ-E") (footprint "antmicro-footprints:C_Pol_EIA-E")
+    )
     (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/51e8d72b-cb47-4627-9fda-71f514b59e12"
       (reference "C146") (unit 1) (value "C_Pol_330u_6.3V_KEMET-T520-B") (footprint "antmicro-footprints:C_Pol_EIA-B")
     )
@@ -1995,6 +2004,9 @@
     )
     (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/cb36fa1e-0c60-4473-a835-899886ca266f"
       (reference "C153") (unit 1) (value "C_Pol_330u_6.3V_KEMET-T520-B") (footprint "antmicro-footprints:C_Pol_EIA-B")
+    )
+    (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/91e77244-2999-477d-9efc-187aac18d6c1"
+      (reference "C154") (unit 1) (value "C_Pol_330u_16V_KYOCERA-AVX-TCJ-E") (footprint "antmicro-footprints:C_Pol_EIA-E")
     )
     (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/3de2ad43-313e-4096-b033-2f125adc5590"
       (reference "D1") (unit 1) (value "MM3Z3V3C") (footprint "thunderbolt-gpu-adapter-footprints:D_SOD-323F")
