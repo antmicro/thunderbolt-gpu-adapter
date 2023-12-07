@@ -1459,15 +1459,6 @@
     (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/53e48f91-7888-4239-a2f9-11eed8cb275f"
       (reference "#PWR0196") (unit 1) (value "GND") (footprint "")
     )
-    (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/e8cfb12e-9632-40c7-aa20-e182c754e1d4"
-      (reference "#PWR0197") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/af63a69f-035d-4336-808b-d1018f51a36f"
-      (reference "#PWR0198") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/12fff223-33c4-4e5c-bcbd-057aeb24a3aa"
-      (reference "#PWR0199") (unit 1) (value "GND") (footprint "")
-    )
     (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/ea212029-4a07-4301-90bf-4786fed484f6"
       (reference "#PWR0200") (unit 1) (value "GND") (footprint "")
     )
@@ -1935,9 +1926,6 @@
     )
     (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/e1ca7b93-cee4-41c5-b5d4-c656fc792ba2"
       (reference "C129") (unit 1) (value "C_100n_0402") (footprint "thunderbolt-gpu-adapter-footprints:C_0402_1005Metric")
-    )
-    (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/b39bb0e0-6f02-48e6-af5d-7a50f54997a0"
-      (reference "C130") (unit 1) (value "C_10n_0402") (footprint "thunderbolt-gpu-adapter-footprints:C_0402_1005Metric")
     )
     (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/ba6b2991-0000-4866-9338-177a4fe4fbed"
       (reference "C131") (unit 1) (value "C_1u_0402") (footprint "thunderbolt-gpu-adapter-footprints:C_0402_1005Metric")
@@ -2581,27 +2569,6 @@
     (path "/edaf7d73-1c1f-440c-ac8b-fe148d6370ed/9a3617cc-47db-448f-9d21-43cd8f2c7107"
       (reference "R137") (unit 1) (value "R_1k_0402") (footprint "thunderbolt-gpu-adapter-footprints:R_0402_1005Metric")
     )
-    (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/38e227bc-f349-4705-ab60-19ce34bd3528"
-      (reference "R138") (unit 1) (value "R_0R_0402") (footprint "thunderbolt-gpu-adapter-footprints:R_0402_1005Metric")
-    )
-    (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/25b06697-650a-4a2e-84c0-cf0860ebfbd9"
-      (reference "R139") (unit 1) (value "R_100k_0402") (footprint "thunderbolt-gpu-adapter-footprints:R_0402_1005Metric")
-    )
-    (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/9a26fb84-f4c7-4113-b7f0-80726a846e5f"
-      (reference "R140") (unit 1) (value "R_100k_0402") (footprint "thunderbolt-gpu-adapter-footprints:R_0402_1005Metric")
-    )
-    (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/ac6b2a09-1997-46d1-ab65-c4a5b82f0322"
-      (reference "R141") (unit 1) (value "R_100k_0402") (footprint "thunderbolt-gpu-adapter-footprints:R_0402_1005Metric")
-    )
-    (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/8cd737ba-8d22-405c-bec4-5f683172895d"
-      (reference "R142") (unit 1) (value "R_1k_0402") (footprint "thunderbolt-gpu-adapter-footprints:R_0402_1005Metric")
-    )
-    (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/131bd006-88c8-4232-8a7a-b2bb1a83314a"
-      (reference "R143") (unit 1) (value "R_1k_0402") (footprint "thunderbolt-gpu-adapter-footprints:R_0402_1005Metric")
-    )
-    (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/3af34c79-a4b8-4432-a5a9-c446e2ec112d"
-      (reference "R144") (unit 1) (value "R_1k_0402") (footprint "thunderbolt-gpu-adapter-footprints:R_0402_1005Metric")
-    )
     (path "/edaf7d73-1c1f-440c-ac8b-fe148d6370ed/f45d882e-c287-49c3-a3ce-2c0bd01f30ff"
       (reference "R145") (unit 1) (value "R_8k2_0402") (footprint "thunderbolt-gpu-adapter-footprints:R_0402_1005Metric")
     )
@@ -2679,9 +2646,6 @@
     )
     (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/ff6f65eb-dd59-4908-9c82-fe939a8ccc85"
       (reference "U9") (unit 1) (value "LM1117MP-3.3_NOPB") (footprint "thunderbolt-gpu-adapter-footprints:SOT-223")
-    )
-    (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/df47d77c-3ebb-4a3a-9726-5d58f13304f4"
-      (reference "U10") (unit 1) (value "LM3881MME_NOPB") (footprint "thunderbolt-gpu-adapter-footprints:VSSOP-8_3x3mm_P0.65mm")
     )
     (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/87c04262-66cf-4499-87cd-d673ebb4d0a4"
       (reference "U11") (unit 1) (value "AP22615A_TSOT26") (footprint "thunderbolt-gpu-adapter-footprints:TSOT23-6")
