@@ -45,7 +45,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.09999999999999999
+          "min_clearance": 0.19999999999999998
         }
       },
       "diff_pair_dimensions": [
@@ -56,10 +56,14 @@
         }
       ],
       "drc_exclusions": [
+        "courtyards_overlap|136654799|138208999|ae49229c-dab6-4a8b-b8ca-8f7dac4489df|cb1cd2d4-df71-4f83-ba24-2bc02e6b3c81",
+        "courtyards_overlap|140100000|134280001|4566c439-0330-473f-8c05-a549b3e3343b|cb1cd2d4-df71-4f83-ba24-2bc02e6b3c81",
         "courtyards_overlap|210701302|130400001|a3b90aee-6674-474e-abde-89b7e0f7332d|d9ff9814-5a4e-44a5-8e15-5405b4169ba9",
         "courtyards_overlap|97677146|110650001|2927ffb3-a316-402e-aac9-893102c0b43d|6fc7b6cb-a27d-44ce-9776-0bb14d27b506",
         "items_not_allowed|85220000|135230000|5f01c1bc-cf4c-4abd-ae41-7750447b0cfb|00000000-0000-0000-0000-000000000000",
         "items_not_allowed|85240000|130020000|d1f205dd-09e0-4e57-a84d-3170e1b1030d|00000000-0000-0000-0000-000000000000",
+        "malformed_courtyard|123500000|137130000|2c6a1b86-eaad-4b14-af2f-9c1be8053404|00000000-0000-0000-0000-000000000000",
+        "malformed_courtyard|136050000|128280000|24daab2e-f318-4b34-ad45-a7a54d5e2f76|00000000-0000-0000-0000-000000000000",
         "silk_over_copper|105052145|111490000|2919ecde-0a25-4951-8c3a-315551b7ddb4|3340289f-48ef-47a0-9bd7-bfe8a045b99d",
         "silk_over_copper|105102145|111282500|2919ecde-0a25-4951-8c3a-315551b7ddb4|3340289f-48ef-47a0-9bd7-bfe8a045b99d",
         "silk_over_copper|214651000|112300000|e012be9a-0b3f-471e-a1b3-631b32c97d78|c725e9e2-6eb7-40da-8f06-a43c9fb3fd0a",
