@@ -18841,7 +18841,7 @@
     (property "Author" "Antmicro" (id 10) (at 239.395 86.995 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
     )
-    (property "DNP" "DNP" (id 10) (at 221.615 59.055 0))
+    (property "DNP" "DNP" (id 11) (at 221.615 59.055 0))
     (pin "1" (uuid 204fbf1b-8bd1-431d-9566-146870a184c8))
     (pin "2" (uuid 83874ed0-a56b-468c-8662-a998bcf0c39d))
   )

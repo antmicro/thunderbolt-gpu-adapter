@@ -51,6 +51,7 @@
   )
 
 
+
   (image (at 146.685 98.425) (scale 3.5054)
     (uuid e1a2b3df-f56e-4677-9731-f622698c56c6)
     (data
@@ -874,9 +875,6 @@
     (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/07b72112-0c8f-42c0-b0cb-22755b8b63ca"
       (reference "#PWR01") (unit 1) (value "GND") (footprint "")
     )
-    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/d593b397-de74-458d-a259-8c4dcc6ac2c1"
-      (reference "#PWR02") (unit 1) (value "GND") (footprint "")
-    )
     (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/f2facd62-1782-4bca-b0b6-a9b7243f7a57"
       (reference "#PWR03") (unit 1) (value "GND") (footprint "")
     )
@@ -1489,9 +1487,6 @@
     (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/8312a873-d432-4f6c-bc79-d07f44dc7836"
       (reference "#PWR0206") (unit 1) (value "GND") (footprint "")
     )
-    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/cc57077d-b9dc-48fe-b07a-d0a15efea5bb"
-      (reference "#PWR0207") (unit 1) (value "GND") (footprint "")
-    )
     (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/c7a221bc-0ce9-4008-b4cb-23e4523aa8ce"
       (reference "#PWR0208") (unit 1) (value "GND") (footprint "")
     )
@@ -2082,9 +2077,6 @@
     )
     (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/e4364ed2-8236-4654-9ba6-d9d197df86b1"
       (reference "H3") (unit 1) (value "Mech_Lightpipe_Mentor_1271.1001") (footprint "thunderbolt-gpu-adapter-footprints:Mech_Lightpipe_Mentor_1271.1001")
-    )
-    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/c2fe095d-44bc-42fc-b5ff-735a7afdcbdd"
-      (reference "J1") (unit 1) (value "JST_SH_1x4_BM04B-SRSS-TB-LF-SN") (footprint "antmicro-footprints:Conn_JST_SH_1x4_BM04B-SRSS-TB-LF-SN")
     )
     (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/71775347-cb19-445a-94a9-6955a0126540"
       (reference "J2") (unit 1) (value "JST_XH_1x2_S2B-XH-A-LF-SN") (footprint "thunderbolt-gpu-adapter-footprints:Conn_JST_XH_1x2_S2B-XH-A-LF-SN")
