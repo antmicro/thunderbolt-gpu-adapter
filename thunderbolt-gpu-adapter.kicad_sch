@@ -51,7 +51,6 @@
   )
 
 
-
   (image (at 146.685 98.425) (scale 3.5054)
     (uuid e1a2b3df-f56e-4677-9731-f622698c56c6)
     (data
@@ -1493,9 +1492,6 @@
     (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/6be6f28a-91f2-4bbd-ba0c-5bec00a517b0"
       (reference "#PWR0210") (unit 1) (value "GND") (footprint "")
     )
-    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/153b0d50-611c-40aa-ba91-41d63517968f"
-      (reference "#PWR0211") (unit 1) (value "GND") (footprint "")
-    )
     (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/0f6de9d2-a029-4a4d-9f08-1ecae343af21"
       (reference "#PWR0212") (unit 1) (value "GND") (footprint "")
     )
@@ -1531,9 +1527,6 @@
     )
     (path "/edaf7d73-1c1f-440c-ac8b-fe148d6370ed/5d5f5eed-4b5a-4d6b-ab1d-ce4c982819c0"
       (reference "#PWR0223") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/588f0e0e-1411-4891-a374-90efd19486e2"
-      (reference "#PWR0225") (unit 1) (value "GND") (footprint "")
     )
     (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/b1736dd5-07e8-4d39-8174-132575e94306"
       (reference "#PWR0226") (unit 1) (value "GND") (footprint "")
@@ -1952,9 +1945,6 @@
     (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/a2c14d01-cec6-4d13-99a8-7ca486f13b82"
       (reference "C137") (unit 1) (value "C_Pol_330u_6.3V_KEMET-T520-B") (footprint "antmicro-footprints:C_Pol_EIA-B")
     )
-    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/3cdc37ee-4cb1-4a2a-8fb9-a9d653a404ee"
-      (reference "C138") (unit 1) (value "C_Pol_330u_6.3V_KEMET-T520-B") (footprint "antmicro-footprints:C_Pol_EIA-B")
-    )
     (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/1f5d1b48-4cf1-4c99-badc-4e66eb1c1246"
       (reference "C139") (unit 1) (value "C_Pol_330u_6.3V_KEMET-T520-B") (footprint "antmicro-footprints:C_Pol_EIA-B")
     )
@@ -1975,9 +1965,6 @@
     )
     (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/20ef1e05-6e92-404b-9046-9aca2e11ce40"
       (reference "C145") (unit 1) (value "C_Pol_330u_16V_KYOCERA-AVX-TCJ-E") (footprint "antmicro-footprints:C_Pol_EIA-E")
-    )
-    (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/51e8d72b-cb47-4627-9fda-71f514b59e12"
-      (reference "C146") (unit 1) (value "C_Pol_330u_6.3V_KEMET-T520-B") (footprint "antmicro-footprints:C_Pol_EIA-B")
     )
     (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/9e046641-185e-44ff-84d3-646a10f3afa5"
       (reference "C147") (unit 1) (value "C_100n_0402") (footprint "antmicro-footprints:C_0402_1005Metric")
