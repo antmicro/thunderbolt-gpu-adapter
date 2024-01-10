@@ -1492,6 +1492,9 @@
     (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/c7a221bc-0ce9-4008-b4cb-23e4523aa8ce"
       (reference "#PWR0208") (unit 1) (value "GND") (footprint "")
     )
+    (path "/edaf7d73-1c1f-440c-ac8b-fe148d6370ed/7856ad9a-4c34-441a-a0f5-834d43e8aa3e"
+      (reference "#PWR0209") (unit 1) (value "GND") (footprint "")
+    )
     (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/6be6f28a-91f2-4bbd-ba0c-5bec00a517b0"
       (reference "#PWR0210") (unit 1) (value "GND") (footprint "")
     )
@@ -1503,9 +1506,6 @@
     )
     (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/db1fb5f4-37e3-43fc-b368-ac07f207e49e"
       (reference "#PWR0214") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/9fd00a23-b7e0-4311-bde7-5a7a5bc68218"
-      (reference "#PWR0215") (unit 1) (value "GND") (footprint "")
     )
     (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/4b24a283-657f-4a7a-a952-07ff8ecaa31d"
       (reference "#PWR0216") (unit 1) (value "GND") (footprint "")
@@ -1531,8 +1531,8 @@
     (path "/edaf7d73-1c1f-440c-ac8b-fe148d6370ed/5d5f5eed-4b5a-4d6b-ab1d-ce4c982819c0"
       (reference "#PWR0223") (unit 1) (value "GND") (footprint "")
     )
-    (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/b1736dd5-07e8-4d39-8174-132575e94306"
-      (reference "#PWR0226") (unit 1) (value "GND") (footprint "")
+    (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/78051458-26bf-4d68-a455-fb60b2923ffa"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/ee93009a-ac01-4467-98b4-1c4e226d60d4"
       (reference "C1") (unit 1) (value "C_10u_0805_35V") (footprint "thunderbolt-gpu-adapter-footprints:C_0805_2012Metric")
@@ -1957,7 +1957,7 @@
     (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/488fa734-b2b3-4263-8f95-9e14602da5d3"
       (reference "C142") (unit 1) (value "C_Pol_330u_6.3V_KEMET-T520-B") (footprint "antmicro-footprints:C_Pol_EIA-B")
     )
-    (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/f3da034d-3232-4219-93d3-61232d3eca47"
+    (path "/edaf7d73-1c1f-440c-ac8b-fe148d6370ed/1737e896-ba11-43ea-a9e5-6e325ad35b78"
       (reference "C143") (unit 1) (value "C_Pol_330u_6.3V_KEMET-T520-B") (footprint "antmicro-footprints:C_Pol_EIA-B")
     )
     (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/e10f17c4-79c5-433f-b5d4-17ec194d3755"
@@ -1984,7 +1984,7 @@
     (path "/edaf7d73-1c1f-440c-ac8b-fe148d6370ed/c198745c-cb91-42e5-b703-b577bb81f1e6"
       (reference "C152") (unit 1) (value "C_100n_0402") (footprint "thunderbolt-gpu-adapter-footprints:C_0402_1005Metric")
     )
-    (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/cb36fa1e-0c60-4473-a835-899886ca266f"
+    (path "/c5be216d-0af2-4d3b-b234-e3e028a22446/1dc6329b-3850-4965-89d3-afe5d4a862ee"
       (reference "C153") (unit 1) (value "C_Pol_330u_6.3V_KEMET-T520-B") (footprint "antmicro-footprints:C_Pol_EIA-B")
     )
     (path "/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3/3c253c8d-e38e-4534-86cf-61257a44187e"
