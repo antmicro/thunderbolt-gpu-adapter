@@ -39,7 +39,7 @@ The modular nature of the board allows for simple expansion of the system, makin
 
 4. Simple Connectivity
 
-Thunderbolt's plug-and-play capability eliminates the need for complex configurations. Users can connect eny PCIe devices to host devices effortlessly.
+Thunderbolt's plug-and-play capability eliminates the need for complex configurations. Users can connect any PCIe devices to host devices effortlessly.
 
 5. Hot Swapping
 
