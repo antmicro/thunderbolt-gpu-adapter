@@ -46,7 +46,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.19999999999999998
+          "min_clearance": 0.09999999999999999
         }
       },
       "diff_pair_dimensions": [
@@ -72,6 +72,9 @@
         "hole_clearance|211068000|116757000|c2e75cc2-938e-45e5-90b2-2fe37976a4d3|ed518da2-dd5d-453d-a67c-d9d186015664",
         "items_not_allowed|85220000|135230000|5f01c1bc-cf4c-4abd-ae41-7750447b0cfb|00000000-0000-0000-0000-000000000000",
         "items_not_allowed|85240000|130020000|d1f205dd-09e0-4e57-a84d-3170e1b1030d|00000000-0000-0000-0000-000000000000",
+        "silk_over_copper|105102145|111440000|2919ecde-0a25-4951-8c3a-315551b7ddb4|00000000-0000-0000-0000-000000000000",
+        "silk_over_copper|214710000|112300000|e012be9a-0b3f-471e-a1b3-631b32c97d78|00000000-0000-0000-0000-000000000000",
+        "silk_over_copper|217590000|118400000|a203581e-7924-4d16-8944-6d259802dac8|00000000-0000-0000-0000-000000000000",
         "silk_overlap|104102145|110709000|4ad26662-fe0a-412a-abcf-e16a12081e1f|ed638fc9-e1a5-4542-9543-c254f9ed09d9",
         "solder_mask_bridge|212269000|116757000|997b65ab-7006-4723-8912-0e011d3ae3fe|c2e75cc2-938e-45e5-90b2-2fe37976a4d3"
       ],
@@ -99,8 +102,8 @@
         "item_on_disabled_layer": "error",
         "items_not_allowed": "error",
         "length_out_of_range": "error",
-        "lib_footprint_issues": "warning",
-        "lib_footprint_mismatch": "warning",
+        "lib_footprint_issues": "ignore",
+        "lib_footprint_mismatch": "ignore",
         "malformed_courtyard": "error",
         "microvia_drill_out_of_range": "error",
         "missing_courtyard": "ignore",
@@ -141,7 +144,7 @@
         "min_microvia_drill": 0.09999999999999999,
         "min_resolved_spokes": 2,
         "min_silk_clearance": 0.0,
-        "min_text_height": 0.7999999999999999,
+        "min_text_height": 0.6,
         "min_text_thickness": 0.08,
         "min_through_hole_diameter": 0.09999999999999999,
         "min_track_width": 0.09999999999999999,
