@@ -6,8 +6,8 @@
 
   (title_block
     (title "Thunderbolt GPU Adapter")
-    (date "2024-01")
-    (rev "1.2.1")
+    (date "2024-04")
+    (rev "1.2.2")
     (company "Antmicro Ltd")
     (comment 1 "www.antmicro.com")
   )
