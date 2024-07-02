@@ -11265,7 +11265,7 @@
   )
 
   (symbol (lib_id "antmicroPMICMotorDriversControllers:MAX6643_QSOP") (at 100.33 293.37 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid efa39421-a4ff-4a0c-a7c0-6a3fa3def830)
     (property "Reference" "U8" (at 112.395 285.75 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -11282,7 +11282,7 @@
     (property "Manufacturer" "Analog Devices" (at 138.43 308.61 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
     )
-    (property "MPN" "MAX6643LBBAEE+" (at 113.03 288.29 0)
+    (property "MPN" "MAX6643LBBAEE+" (at 112.395 288.29 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     )
     (property "Author" "Antmicro" (at 138.43 311.15 0)
