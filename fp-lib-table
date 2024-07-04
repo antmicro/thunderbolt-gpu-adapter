@@ -1,3 +1,0 @@
-(fp_lib_table
-  (lib (name "thunderbolt-gpu-adapter-footprints")(type "KiCad")(uri "${KIPRJMOD}/lib/thunderbolt-gpu-adapter-footprints")(options "")(descr ""))
-)
