@@ -8560,7 +8560,7 @@
   )
 
   (symbol (lib_id "antmicroCapacitorspol:C_Pol_330u_6.3V_KEMET-T520-B") (at 25.4 34.29 270) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom yes) (on_board yes) (dnp yes) (fields_autoplaced)
     (uuid 1dc6329b-3850-4965-89d3-afe5d4a862ee)
     (property "Reference" "C153" (at 27.94 35.0266 90)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left))
@@ -10349,7 +10349,7 @@
   )
 
   (symbol (lib_id "antmicroCapacitors0603:C_10u_0603") (at 204.47 119.38 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp yes)
     (uuid 4845cb03-34d2-4e35-a600-a76a13a8c7e0)
     (property "Reference" "C132" (at 206.375 115.57 90)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify right))
@@ -13218,7 +13218,7 @@
   )
 
   (symbol (lib_id "antmicroCapacitorsmisc:C_22u_1206_35V") (at 55.88 204.47 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom yes) (on_board yes) (dnp yes) (fields_autoplaced)
     (uuid 90bd1b02-a5ac-456e-9be8-534d29c31554)
     (property "Reference" "C10" (at 58.42 200.6536 90)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify right))
@@ -15047,7 +15047,7 @@
   )
 
   (symbol (lib_id "antmicroCapacitorsmisc:C_22u_25V_0805") (at 173.99 55.88 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom yes) (on_board yes) (dnp yes) (fields_autoplaced)
     (uuid bd3ce6bd-9edf-4a2e-881d-e1fe3b509c56)
     (property "Reference" "C42" (at 176.53 50.7936 90)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify right))
@@ -15596,7 +15596,7 @@
   )
 
   (symbol (lib_id "antmicroResistors0402:R_1k_0402") (at 222.25 88.9 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom yes) (on_board yes) (dnp yes) (fields_autoplaced)
     (uuid c8e7e389-5041-4361-8e2c-6345aaec70da)
     (property "Reference" "R148" (at 224.79 92.71 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -17577,7 +17577,7 @@
   )
 
   (symbol (lib_id "antmicroCapacitorsmisc:C_22u_1206_35V") (at 45.72 204.47 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom yes) (on_board yes) (dnp yes) (fields_autoplaced)
     (uuid f38aaa2e-dc67-4abf-85b7-a1e40604d2fd)
     (property "Reference" "C8" (at 48.26 200.6536 90)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify right))

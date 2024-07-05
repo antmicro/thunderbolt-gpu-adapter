@@ -5690,7 +5690,7 @@
   )
 
   (symbol (lib_id "antmicroResistors0603:R_0R_0603") (at 133.35 359.41 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp yes)
     (uuid 0313c12b-5348-44ca-83d9-c8a63f48083a)
     (property "Reference" "R113" (at 135.001 356.0394 90)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify right))
@@ -6357,7 +6357,7 @@
   )
 
   (symbol (lib_id "antmicroResistors0603:R_0R_0603") (at 57.15 297.18 270) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp yes)
     (uuid 160f10c7-b8f8-4f2a-9654-18faffb65fe6)
     (property "Reference" "R106" (at 59.69 293.37 90)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left))
@@ -6507,7 +6507,7 @@
   )
 
   (symbol (lib_id "antmicroResistors0603:R_0R_0603") (at 57.15 354.33 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom yes) (on_board yes) (dnp yes) (fields_autoplaced)
     (uuid 1c6745e5-4432-4d59-88f8-fd4ba4dbbd11)
     (property "Reference" "R111" (at 59.69 350.52 90)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify right))
@@ -6666,7 +6666,7 @@
   )
 
   (symbol (lib_id "antmicroCapacitorspol:C_Pol_330u_6.3V_KEMET-T520-B") (at 180.34 147.32 270) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom yes) (on_board yes) (dnp yes) (fields_autoplaced)
     (uuid 1f5d1b48-4cf1-4c99-badc-4e66eb1c1246)
     (property "Reference" "C139" (at 182.753 148.496 90)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left))
@@ -6716,7 +6716,7 @@
   )
 
   (symbol (lib_id "antmicroCapacitorspol:C_Pol_330u_16V_KYOCERA-AVX-TCJ-E") (at 207.01 46.99 270) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom yes) (on_board yes) (dnp yes) (fields_autoplaced)
     (uuid 20ef1e05-6e92-404b-9046-9aca2e11ce40)
     (property "Reference" "C145" (at 209.55 47.7266 90)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left))
@@ -7218,7 +7218,7 @@
   )
 
   (symbol (lib_id "antmicroCapacitorspol:C_Pol_330u_16V_KYOCERA-AVX-TCJ-E") (at 199.39 46.99 270) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom yes) (on_board yes) (dnp yes) (fields_autoplaced)
     (uuid 3c253c8d-e38e-4534-86cf-61257a44187e)
     (property "Reference" "C154" (at 196.85 47.7266 90)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify right))
@@ -7299,7 +7299,7 @@
   )
 
   (symbol (lib_id "antmicroResistors0603:R_0R_0603") (at 57.15 328.93 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp yes)
     (uuid 3db36010-c3bf-41d6-9a85-9bf6c70b89ff)
     (property "Reference" "R109" (at 58.801 325.5594 90)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify right))
@@ -7449,7 +7449,7 @@
   )
 
   (symbol (lib_id "antmicroResistors0603:R_0R_0603") (at 57.15 322.58 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp yes)
     (uuid 4457e6a2-431e-4ae0-be60-20a2406a456e)
     (property "Reference" "R108" (at 58.42 318.135 90)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify right))
@@ -7773,7 +7773,7 @@
   )
 
   (symbol (lib_id "antmicroWire2BoardConnectors:JST_XH_1x2_S2B-XH-A-LF-SN") (at 241.3 86.36 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp yes)
     (uuid 71775347-cb19-445a-94a9-6955a0126540)
     (property "Reference" "J2" (at 247.65 86.3599 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left))
@@ -7811,7 +7811,7 @@
   )
 
   (symbol (lib_id "antmicroWire2BoardConnectors:Molex_Nano-Fit_1x2_1053131202") (at 151.13 35.56 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom yes) (on_board yes) (dnp yes) (fields_autoplaced)
     (uuid 71d52116-16b3-4439-8472-73c830b0936a)
     (property "Reference" "J4" (at 158.115 35.56 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left))
@@ -7880,7 +7880,7 @@
   )
 
   (symbol (lib_id "antmicroWire2BoardConnectors:JST_XH_1x4_S4B-XH-A-LF-SN") (at 139.7 68.58 180) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp yes)
     (uuid 7955db10-e9f9-4ec9-9c4f-64db4de29c87)
     (property "Reference" "J3" (at 135.89 54.61 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)))
@@ -8310,7 +8310,7 @@
   )
 
   (symbol (lib_id "antmicroCapacitorspol:C_Pol_330u_16V_KYOCERA-AVX-TCJ-E") (at 153.67 147.32 270) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp yes)
     (uuid 90eed003-4b3f-49a4-a000-7a124675f16e)
     (property "Reference" "C125" (at 156.083 148.496 90)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left))
@@ -8391,7 +8391,7 @@
   )
 
   (symbol (lib_id "antmicroResistors0603:R_0R_0603") (at 36.83 328.93 270) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp yes)
     (uuid 95a6c75b-93ea-4fa3-bdaf-6ca0d410fd1f)
     (property "Reference" "R103" (at 39.37 325.12 90)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left))
@@ -8565,7 +8565,7 @@
   )
 
   (symbol (lib_id "antmicroCapacitorspol:C_Pol_330u_6.3V_KEMET-T520-B") (at 87.63 92.71 270) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom yes) (on_board yes) (dnp yes) (fields_autoplaced)
     (uuid a2c14d01-cec6-4d13-99a8-7ca486f13b82)
     (property "Reference" "C137" (at 90.17 93.4466 90)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left))
@@ -9064,7 +9064,7 @@
   )
 
   (symbol (lib_id "antmicroResistors0603:R_0R_0603") (at 57.15 346.71 270) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp yes)
     (uuid bfdc84ff-7088-4e29-81fe-92014fa28700)
     (property "Reference" "R110" (at 59.69 342.9 90)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left))
@@ -9471,7 +9471,7 @@
   )
 
   (symbol (lib_id "antmicroResistors0603:R_0R_0603") (at 36.83 346.71 270) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp yes)
     (uuid caca0c5c-88b1-4e1d-8824-bc38b1da3e04)
     (property "Reference" "R104" (at 39.37 342.9 90)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left))
@@ -10721,7 +10721,7 @@
   )
 
   (symbol (lib_id "antmicroResistors0603:R_0R_0603") (at 36.83 297.18 270) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp yes)
     (uuid fbc76296-8462-4c87-89b9-b97fd8d292da)
     (property "Reference" "R100" (at 39.37 293.37 90)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left))
