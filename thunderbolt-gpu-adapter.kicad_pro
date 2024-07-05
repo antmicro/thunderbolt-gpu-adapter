@@ -74,6 +74,7 @@
         "footprint_type_mismatch|82000000|140000000|3392f16d-6657-4fab-8aa5-134ed52d58e4|00000000-0000-0000-0000-000000000000",
         "footprint_type_mismatch|83733000|132520000|47a8c6b8-1eb0-4085-9019-c5d0e2924000|00000000-0000-0000-0000-000000000000",
         "hole_clearance|211068000|116757000|f94e6bb5-f730-44a1-84c0-b77ea082aaea|ed55cfe4-2540-43bc-bc11-63e96897743b",
+        "lib_footprint_mismatch|237710000|126170000|f2dba953-fd17-46af-b7c8-dede1b7e728a|00000000-0000-0000-0000-000000000000",
         "missing_courtyard|232000000|126000000|f2dba953-fd17-46af-b7c8-dede1b7e728a|00000000-0000-0000-0000-000000000000",
         "silk_over_copper|220904811|137990000|1e3e4882-6b2a-4768-bcc4-e9b76d5efa35|00000000-0000-0000-0000-000000000000",
         "silk_over_copper|220909000|137990000|5d142833-96ef-43af-b17c-d6018bcf54dc|00000000-0000-0000-0000-000000000000"
@@ -421,7 +422,7 @@
       "pin_not_connected": "error",
       "pin_not_driven": "error",
       "pin_to_pin": "warning",
-      "power_pin_not_driven": "error",
+      "power_pin_not_driven": "warning",
       "similar_labels": "warning",
       "simulation_model_issue": "ignore",
       "unannotated": "error",

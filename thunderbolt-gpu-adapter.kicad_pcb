@@ -239460,13 +239460,13 @@
       (net 97 "12V0_MOLEX") (pinfunction "P1") (pintype "power_in")
       (options (clearance outline) (anchor rect))
       (primitives
-        (gr_rect (start 2.141 -2.988) (end -4.21 3.111) (width 0.001) (fill yes))
+        (gr_rect (start -4.21 -2.988) (end 2.141 3.111) (width 0.001) (fill yes))
       ) (tstamp ab19ca58-691a-4f76-843d-f6f1ecfe3fd9))
     (pad "2" smd custom locked (at -1.901 7.497 90) (size 2.286 1.524) (layers "B.Cu" "B.Mask")
       (net 268 "GND") (pinfunction "P2") (pintype "power_in")
       (options (clearance outline) (anchor rect))
       (primitives
-        (gr_rect (start 2.141 -2.993) (end -4.209 3.106) (width 0.001) (fill yes))
+        (gr_rect (start -4.209 -2.993) (end 2.141 3.106) (width 0.001) (fill yes))
       ) (tstamp 50f8c09b-eb38-4b7a-a25b-73a1a01ccc5a))
     (pad "3" smd custom locked (at 3.179 7.497 90) (size 0.5715 0.762) (layers "F.Cu" "F.Mask")
       (net 335 "3V3_PCIE") (pinfunction "S1") (pintype "passive")
