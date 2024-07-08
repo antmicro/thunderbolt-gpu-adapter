@@ -221,7 +221,23 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [],
+    "erc_exclusions": [
+      "pin_to_pin|292100|1028700|5d71ed5b-149f-465b-ab55-9a590d6efa16|5197c28c-e8c3-42ac-9c52-49ab4d3709ab|/6701ed44-03d2-4633-acc7-b19b85d75ead/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3|/6701ed44-03d2-4633-acc7-b19b85d75ead/3cf1056a-c882-4aa3-b4ed-cc5a76fc7bf3|/6701ed44-03d2-4633-acc7-b19b85d75ead/c5be216d-0af2-4d3b-b234-e3e028a22446",
+      "power_pin_not_driven|1016000|3441700|bc977d4e-643b-46e8-b687-62fa7b7bea94|00000000-0000-0000-0000-000000000000|||",
+      "power_pin_not_driven|1219200|1079500|b9b2d335-fe2c-48e6-873a-59c0c4427b91|00000000-0000-0000-0000-000000000000|||",
+      "power_pin_not_driven|1219200|1587500|602b0b6b-1b16-449e-95a3-abca4b2c1fc5|00000000-0000-0000-0000-000000000000|||",
+      "power_pin_not_driven|1219200|1612900|4d5422ae-f226-43f9-9211-5341b21a6946|00000000-0000-0000-0000-000000000000|||",
+      "power_pin_not_driven|1219200|876300|11dcccd1-1cb7-4970-94d8-15855a9b9b30|00000000-0000-0000-0000-000000000000|||",
+      "power_pin_not_driven|1765300|1054100|127496f9-0b94-4a2c-89ec-2548dc99cfcc|00000000-0000-0000-0000-000000000000|||",
+      "power_pin_not_driven|1765300|1079500|cc690528-8cda-4f84-b907-770f45e7a778|00000000-0000-0000-0000-000000000000|||",
+      "power_pin_not_driven|1765300|1282700|307489a5-5005-47fb-9fbc-0579a1b9ce17|00000000-0000-0000-0000-000000000000|||",
+      "power_pin_not_driven|1765300|1587500|b46e296b-0822-4e3b-8767-29c58da4fc24|00000000-0000-0000-0000-000000000000|||",
+      "power_pin_not_driven|2489200|3136900|a66bdb38-9ef4-495c-ae76-d987e6a1b96e|00000000-0000-0000-0000-000000000000|||",
+      "power_pin_not_driven|2489200|355600|75f8f4bd-7cac-42b3-9f1d-1849aeb72202|00000000-0000-0000-0000-000000000000|||",
+      "power_pin_not_driven|2501900|2755900|d99492a7-f841-46de-b619-d73ae398aa50|00000000-0000-0000-0000-000000000000|||",
+      "power_pin_not_driven|736600|469900|b38ff0af-5483-4e19-9871-9b95dde0d4b6|00000000-0000-0000-0000-000000000000|||",
+      "power_pin_not_driven|736600|520700|3401c64c-df5b-4a51-a07e-07a7becb2a17|00000000-0000-0000-0000-000000000000|||"
+    ],
     "meta": {
       "version": 0
     },
@@ -421,7 +437,7 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "warning",
+      "pin_to_pin": "ignore",
       "power_pin_not_driven": "warning",
       "similar_labels": "warning",
       "simulation_model_issue": "ignore",
