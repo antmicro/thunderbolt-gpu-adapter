@@ -1,6 +1,6 @@
 # Thunderbolt to GPU Adapter
 
-Copyright (c) 2024 [Antmicro](https://www.antmicro.com)
+Copyright (c) 2023-2024 [Antmicro](https://www.antmicro.com)
 
 ![](img/thunderbolt-gpu-adapter-render.png)
 
