@@ -1167666,7 +1167666,9 @@
 		(zone
 			(net 0)
 			(net_name "")
-			(layers "*.Cu" "*.Adhes" "*.Paste" "Edge.Cuts")
+			(layers "*.Adhes" "*.Paste" "F.Cu" "In1.Cu" "In2.Cu" "In3.Cu" "In4.Cu"
+				"B.Cu" "Edge.Cuts"
+			)
 			(uuid "6a7c1d1a-ddac-4867-b812-1469d6cc746e")
 			(hatch edge 0.508)
 			(connect_pads

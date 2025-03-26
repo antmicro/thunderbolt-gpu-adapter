@@ -588,7 +588,32 @@
     },
     "net_colors": null,
     "netclass_assignments": null,
-    "netclass_patterns": []
+    "netclass_patterns": [
+      {
+        "netclass": "85Ohm-diff_PCIE3",
+        "pattern": "*PCIE*P"
+      },
+      {
+        "netclass": "85Ohm-diff_PCIE3",
+        "pattern": "*PCIE*N"
+      },
+      {
+        "netclass": "90Ohm-diff_USB2",
+        "pattern": "USB*"
+      },
+      {
+        "netclass": "85Ohm-diff_USB4",
+        "pattern": "TB*"
+      },
+      {
+        "netclass": "85Ohm-diff_PCIE3",
+        "pattern": "/TB Controller/TX*"
+      },
+      {
+        "netclass": "85Ohm-diff_USB4",
+        "pattern": "/TB Controller/PA*"
+      }
+    ]
   },
   "pcbnew": {
     "last_paths": {
