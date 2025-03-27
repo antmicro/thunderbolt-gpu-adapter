@@ -591,11 +591,11 @@
     "netclass_patterns": [
       {
         "netclass": "85Ohm-diff_PCIE3",
-        "pattern": "*PCIE*P"
+        "pattern": "*PCIE*_P"
       },
       {
         "netclass": "85Ohm-diff_PCIE3",
-        "pattern": "*PCIE*N"
+        "pattern": "*PCIE*_N"
       },
       {
         "netclass": "90Ohm-diff_USB2",
