@@ -53,6 +53,7 @@
 		(stackup
 			(layer "F.SilkS"
 				(type "Top Silk Screen")
+				(color "White")
 			)
 			(layer "F.Paste"
 				(type "Top Solder Paste")
@@ -68,9 +69,10 @@
 			)
 			(layer "dielectric 1"
 				(type "prepreg")
+				(color "FR4 natural")
 				(thickness 0.12)
 				(material "PR2116")
-				(epsilon_r 4.12)
+				(epsilon_r 4.3)
 				(loss_tangent 0.023)
 			)
 			(layer "In1.Cu"
@@ -79,9 +81,10 @@
 			)
 			(layer "dielectric 2"
 				(type "core")
+				(color "FR4 natural")
 				(thickness 0.51)
 				(material "FR4-Improved")
-				(epsilon_r 4.125)
+				(epsilon_r 4.3)
 				(loss_tangent 0.022)
 			)
 			(layer "In2.Cu"
@@ -90,9 +93,10 @@
 			)
 			(layer "dielectric 3"
 				(type "prepreg")
+				(color "FR4 natural")
 				(thickness 0.14)
 				(material "PR1080")
-				(epsilon_r 4.125)
+				(epsilon_r 4.3)
 				(loss_tangent 0.025)
 			)
 			(layer "In3.Cu"
@@ -101,9 +105,10 @@
 			)
 			(layer "dielectric 4"
 				(type "core")
+				(color "FR4 natural")
 				(thickness 0.51)
 				(material "FR4-Improved")
-				(epsilon_r 4.125)
+				(epsilon_r 4.3)
 				(loss_tangent 0.022)
 			)
 			(layer "In4.Cu"
@@ -112,9 +117,10 @@
 			)
 			(layer "dielectric 5"
 				(type "prepreg")
+				(color "FR4 natural")
 				(thickness 0.12)
 				(material "PR2116")
-				(epsilon_r 4.12)
+				(epsilon_r 4.3)
 				(loss_tangent 0.023)
 			)
 			(layer "B.Cu"
@@ -131,6 +137,7 @@
 			)
 			(layer "B.SilkS"
 				(type "Bottom Silk Screen")
+				(color "White")
 			)
 			(copper_finish "None")
 			(dielectric_constraints yes)
